@@ -79,7 +79,7 @@
       .col-lg.justify-content-md-center.align-self-center
         h3 Técnicas de composición
             p.mb-4 Una composición exitosa significa que se ha organizado, distribuido, alineado y compilado el diseño de manera tal, que no solo se vea bien, sino que también sea altamente funcional y efectivo. Por esta razón, a continuación, se indicarán unos cuantos consejos, trucos y técnicas que harán que se domine la composición en un abrir y cerrar de ojos.
-            a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+            a.boton.color-acento-botones(:href="obtenerLink('/downloads/tecnicas_composicion.pdf')" target="_blank" type="application/pdf")
               span Descargar
               i.fas.fa-file-download
 
