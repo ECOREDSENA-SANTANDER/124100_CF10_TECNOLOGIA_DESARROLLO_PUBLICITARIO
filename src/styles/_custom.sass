@@ -1,0 +1,182 @@
+
+$crd-icon-size: 120px
+$crd-padding: 1.5rem
+$crd-width: calc(100% - ((#{$crd-icon-size} / 2))
+  
+.crd_01 
+  position: relative
+  display: flex
+  flex-direction: row
+
+  
+ 
+  z-index: 1
+
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: $crd-width
+    height: 100%    
+
+    border-radius: 15px
+    z-index: -1
+  &__icon
+    order: 1
+    flex-basis: auto
+
+    img   
+      width: $crd-icon-size
+  &__txt
+    flex: 1 
+    order: 2
+    
+
+.crd_02 
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: start
+  align-items: center 
+  padding: 1.5rem 1.5rem 1.5rem 0   
+  z-index: 1
+
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: $crd-width
+    height: 100%    
+    background-color: #E7F8F8
+    border-radius: 15px
+    z-index: -1
+  &__icon
+    order: 1
+    flex-basis: auto
+    width: $crd-icon-size
+    margin-right: 15px
+    img   
+      width: $crd-icon-size
+  &__txt
+    flex: 1 
+    order: 2    
+
+.crd_03 
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: start
+  align-items: center 
+  padding: 1.5rem 1.5rem 1.5rem 0   
+  z-index: 1
+
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: $crd-width
+    height: 100%    
+    background-color: #FAFAFA
+    border-radius: 15px
+    z-index: -1
+ 
+.sep
+  border-left: 4px solid #26AAB7 !important
+
+.cc1
+  background-color: #B1A8D1
+  border-radius: 60px
+  width: 60px
+  height: 60px
+  top: 25px
+  transform: translateX(-20%)
+
+.cc3
+  position: absolute
+  left: 50%
+  top: 50%
+  color: #12263F
+  transform: translate(-50%,-50%)
+
+.bloque-texto-d.color2:before 
+    background-color: #E5F4FF
+.fondo1 
+    background-color: #CAEAEE !important
+.fondo2 
+    background-color: #EBEBEB !important
+.fondo3 
+    background-color: #EAF8F3 !important
+    border-top-left-radius: 2rem
+    border-bottom-left-radius: 2rem
+.fondo4
+    background-color: #E5E2EF!important 
+    border-top-right-radius: 2rem   
+    border-bottom-right-radius: 2rem  
+.fondo5
+    background-color: #E5E2EF!important 
+.fondo6    
+    background-color: #E8E8F0!important 
+.fondo7
+    background-color: #F2F2F2 !important     
+.iii 
+    color: #7D6EB2 !important      
+.b-t
+  border-top: 1px solid #7D6EB2   
+  
+ 
+
+.bloque-texto-a.color1:before 
+    background-color: #26AAB7
+
+.img-500
+    width: 500px !important
+    margin: auto  
+.img-200
+    width: 250px !important
+    margin: auto     
+.img-c
+  justify-content: center!important
+  display: block
+  margin: 0 auto
+
+
+.tabs-a__tab__selected
+    color: $white !important
+.tabs-a__tab:hover
+  color: $white !important
+
+.tabs-a__tab 
+    background-color: #E8E8E8
+
+.izq  
+  &::before
+    top: -10%
+    bottom: 40%
+    left: 0
+    right: 70% 
+    background-color: #EBE9F4 !important
+.izq2
+  &::before
+    top: 10%
+    bottom: -100%
+    left: 0
+    right: 70% 
+    background-color: #EBE9F4 !important    
+.der2
+  &::before
+    top: 25%
+    bottom: -10%
+    left: 60%
+    right: 0
+    background-color: #E3F1F1 !important
+.der
+  &::before
+    top: 40%
+    bottom: -10%
+    left: 70%
+    right: 0
+    background-color: #E3F1F1 !important
+
