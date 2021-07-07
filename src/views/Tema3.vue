@@ -235,7 +235,7 @@ export default {
         imagen: require('@/assets/tema3/img-19-.svg'),
       },
       {
-        titulo: 'La jerarquía.',
+        titulo: 'La jerarquía',
         texto:
           'Es utilizada para guiar el ojo del lector a lo más importante. En otras palabras, le muestra dónde comenzar y a dónde ir, usando diferentes niveles de énfasis.<br><br>Establecer una jerarquía es simple, se debe decidir qué recursos quiere que el lector note primero y luego hacer que se destaquen. Los elementos más importantes suelen ser más grandes, más gruesos o diferentes de alguna manera. Recuerde que es mejor mantener una forma sencilla y usar solo algunos estilos complementarios. A continuación, se muestra un ejemplo.',
         imagen: require('@/assets/tema3/img-20-.svg'),

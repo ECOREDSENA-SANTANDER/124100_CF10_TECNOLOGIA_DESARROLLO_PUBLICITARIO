@@ -43,7 +43,7 @@
                 img(src='@/assets/tema4/img-2.svg', alt='Promoción de ventas')          
             .col-lg-9.mb-4.mb-lg-0
               .bloque-texto-a__texto.p-4
-                    p La pieza publicitaria para medios impresos o digitales es el resultado de un proceso prolongado de investigación, análisis y desarrollo creativo, que ya se ha estudiado en otros componentes. Una pieza gráfica está compuesta por varios elementos que se ajustan y conforman el mensaje para llegar al mercado objetivo, informarlo, persuadirlo y hacer que adquiera el producto o servicio que se está promocionando. 
+                    p No es necesario demostrar sofisticación en los textos; palabras breves, simples y de fácil entendimiento harán que el receptor pueda recordarlo por más tiempo. Las frases cumplen la misma regla, no más de 12 palabras; se debe cerrar con un llamado a la acción, en el tono adecuado para que el lector se levante y salga a buscar lo que le ofrecen. 
     
     p.mb-5 Antes de empezar, piense en el receptor del mensaje y hágase las siguientes preguntas:
     figure.mb-5
