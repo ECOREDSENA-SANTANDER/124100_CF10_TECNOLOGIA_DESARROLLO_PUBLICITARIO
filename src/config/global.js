@@ -128,11 +128,11 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
+      // {
+      //   icono: 'fas fa-download',
+      //   titulo: 'Descargar material',
+      //   download: 'downloads/material.zip',
+      // },
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -240,7 +240,7 @@ export default {
         'Esquema o proyecto que contiene solamente los rasgos principales de una obra artística o técnica (lexico.com, 2021).',
     },
     {
-      termino: 'Diseñ',
+      termino: 'Diseño',
       significado:
         'Actividad creativa que tiene por fin proyectar objetos que sean útiles y estéticos (lexico.com, 2021).',
     },
