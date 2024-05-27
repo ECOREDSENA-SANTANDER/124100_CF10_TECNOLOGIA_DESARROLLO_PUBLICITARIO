@@ -3,8 +3,26 @@ export default {
     componenteFormativo: 'Diseño de piezas gráficas ',
     descripcionCurso:
       'Una pieza gráfica es una composición visual de diseño que se compone, por lo general, de texto, imagen y logo de la marca; su objetivo es transmitir un mensaje al consumidor o usuario, a través de estos elementos integrados en un concepto creativo que genere recordación y una respuesta por parte del público objetivo de la marca.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
+    imagenesDecorativasBanner: [
+      {
+        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-4.svg'),
+      },
+    ],
   },
   menuPrincipal: {
     menu: [
@@ -16,46 +34,46 @@ export default {
 
       {
         nombreRuta: 'tema1',
-        icono: 'far fa-file-alt',
+
         numero: '1',
         titulo: 'Desarrollo creativo de las piezas gráficas',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
             numero: '1.1',
             titulo: 'Estructura del anuncio publicitario',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Estilos en los anuncios publicitarios',
+            hash: 't_1_2',
           },
         ],
       },
       {
         nombreRuta: 'tema2',
-        icono: 'far fa-file-alt',
+
         numero: '2',
         titulo: 'Uso del color en los anuncios publicitarios',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
             numero: '2.1',
             titulo: 'Orígenes',
             hash: 't_2_1',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '2.2',
             titulo: 'Bases de la teoría del color',
             hash: 't_2_2',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '2.3',
             titulo: 'Teoría del color de Eva Heller',
             hash: 't_2_3',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '2.4',
             titulo: 'Significado de los colores',
             hash: 't_2_4',
@@ -64,31 +82,27 @@ export default {
       },
       {
         nombreRuta: 'tema3',
-        icono: 'far fa-file-alt',
+
         numero: '3',
         titulo: 'Composición gráfica en los anuncios publicitarios',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
             numero: '3.1',
             titulo: 'Leyes de la composición',
             hash: 't_3_1',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '3.2',
             titulo: 'La sección áurea',
             hash: 't_3_2',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '3.3',
             titulo: 'Layout',
             hash: 't_3_3',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '3.4',
             titulo: 'Tipografías',
             hash: 't_3_4',
@@ -97,19 +111,17 @@ export default {
       },
       {
         nombreRuta: 'tema4',
-        icono: 'far fa-file-alt',
+
         numero: '4',
         titulo: 'Desarrollo de la pieza gráfica',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
             numero: '4.1',
             titulo: 'Primer paso, el esbozo ',
             hash: 't_4_1',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '4.2',
             titulo: 'Construcción de la pieza gráfica',
             hash: 't_4_2',
@@ -119,6 +131,12 @@ export default {
     ],
     subMenu: [
       {
+        icono: 'fas fa-sitemap',
+        titulo: 'Síntesis',
+        nombreRuta: 'sintesis',
+        desarrolloContenidos: true,
+      },
+      {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
@@ -127,6 +145,11 @@ export default {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
+      },
+      {
+        icono: 'fas fa-file-pdf',
+        titulo: 'Descargar PDF',
+        download: 'downloads/prueba.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -140,6 +163,52 @@ export default {
       },
     ],
   },
+  complementario: [
+    {
+      tema: '',
+      referencia: '',
+      tipo: '',
+      link: 'https://www.google.com/',
+    },
+    {
+      tema: '',
+      referencia: '',
+      tipo: '',
+      descarga: '/downloads/prueba.pdf',
+    },
+  ],
+  glosario: [
+    {
+      termino: 'Boceto',
+      significado:
+        'Esquema o proyecto que contiene solamente los rasgos principales de una obra artística o técnica (lexico.com, 2021).',
+    },
+    {
+      termino: 'Diseño',
+      significado:
+        'Actividad creativa que tiene por fin proyectar objetos que sean útiles y estéticos (lexico.com, 2021).',
+    },
+    {
+      termino: 'Mensaje publicitario',
+      significado:
+        'Es una forma de comunicación a través de la cual se pretende dar a conocer un producto, su elemento principal es el mensaje publicitario. Dentro del texto del anuncio es habitual utilizar determinadas frases que pueden resumir o facilitar que el mensaje y su contenido sean recordados.',
+    },
+    {
+      termino: 'Mercado meta',
+      significado:
+        'Conjunto de miembros del mercado que tienen como característica principal el tener necesidades, gustos y conductas aptas para adquirir un producto o servicio.',
+    },
+    {
+      termino: 'Publicidad',
+      significado:
+        'Difusión o divulgación de información, ideas u opiniones de carácter político, religioso, comercial, etc., con la intención de que alguien actúe de una determinada manera, piense según unas ideas o adquiera un determinado producto (lexico.com, 2021).',
+    },
+    {
+      termino: 'Tipografía',
+      significado:
+        'Se le denomina a la tarea, oficio e industria que se ocupa de la elección y el uso de tipos (letras diseñadas con unidad de estilo) para los textos en piezas gráficas..',
+    },
+  ],
   referencias: [
     {
       referencia: 'Definición.de. (2021). Boceto.',
@@ -233,181 +302,109 @@ export default {
         'Weber, M. (2007). The layout look book. Guía visual de diseño y maquetación. Instituto Monsa de Ediciones.',
     },
   ],
-  glosario: [
+  creditos: [
     {
-      termino: 'Boceto',
-      significado:
-        'Esquema o proyecto que contiene solamente los rasgos principales de una obra artística o técnica (lexico.com, 2021).',
+      titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo: 'Responsable del Ecosistema',
+          centro: 'Dirección General',
+        },
+        {
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo: 'Responsable de Línea de Producción',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+      ],
     },
     {
-      termino: 'Diseño',
-      significado:
-        'Actividad creativa que tiene por fin proyectar objetos que sean útiles y estéticos (lexico.com, 2021).',
+      titulo: 'CONTENIDO INSTRUCCIONAL',
+      autores: [
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor Metodológico y Pedagógico',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Manuel Augusto Arias López',
+          cargo: 'Instructor - Experto Temático',
+          centro: 'Regional Quindío - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Vilma Perilla Méndez',
+          cargo: 'Evaluadora Instruccional',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Andrea Velásquez Torres',
+          cargo: 'Apoyo Experto Temático',
+          centro: 'Regional Quindío - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Julia Isabel Roberto',
+          cargo: 'Diseñadora y Evaluadora Instruccional',
+          centro:
+            'Regional Distrito Capitalo - Centro para la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Carolina Jiménez Suescun',
+          cargo: 'Evaluadora Instruccional',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+      ],
     },
     {
-      termino: 'Mensaje publicitario',
-      significado:
-        'Es una forma de comunicación a través de la cual se pretende dar a conocer un producto, su elemento principal es el mensaje publicitario. Dentro del texto del anuncio es habitual utilizar determinadas frases que pueden resumir o facilitar que el mensaje y su contenido sean recordados.',
+      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Yuly Andrea Rey Quiñonez',
+          cargo: 'Diseñadora de Contenidos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Lizeth Karina Manchego Suarez',
+          cargo: 'Desarrolladora Full-Stack',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y Productora Multimedia',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+      ],
     },
     {
-      termino: 'Mercado meta',
-      significado:
-        'Conjunto de miembros del mercado que tienen como característica principal el tener necesidades, gustos y conductas aptas para adquirir un producto o servicio.',
-    },
-    {
-      termino: 'Publicidad',
-      significado:
-        'Difusión o divulgación de información, ideas u opiniones de carácter político, religioso, comercial, etc., con la intención de que alguien actúe de una determinada manera, piense según unas ideas o adquiera un determinado producto (lexico.com, 2021).',
-    },
-    {
-      termino: 'Tipografía',
-      significado:
-        'Se le denomina a la tarea, oficio e industria que se ocupa de la elección y el uso de tipos (letras diseñadas con unidad de estilo) para los textos en piezas gráficas..',
+      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
+      autores: [
+        {
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Laura Paola Gelvez Manosalva',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para Contenidos Inclusivos y Accesibles',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+      ],
     },
   ],
-
-  creditos: {
-    liderEquipo: [
-      {
-        nombre: 'Maria Camila Garcia Santamaria',
-        cargo: 'Líder del equipo',
-        centro: 'Dirección General',
-      },
-    ],
-    contenidoInstruccional: [
-      {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Manuel Augusto Arias López',
-        cargo: 'Instructor - Experto temático',
-        centro: 'Centro de Comercio y Servicios Regional Quindío',
-      },
-      {
-        nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Diseñador instruccional',
-        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
-      },
-      {
-        nombre: 'Vilma Perilla Méndez',
-        cargo: 'Evaluadora instruccional',
-        centro: 'Centro de Gestión Industrial Regional Distrito Capital',
-      },
-      {
-        nombre: 'Andrea Velásquez Torres',
-        cargo: 'Apoyo Experto temático',
-        centro: 'Centro de Comercio y Servicios – Regional Quindío',
-      },
-      {
-        nombre: 'Julia Isabel Roberto',
-        cargo: 'Diseñadora y evaluadora instruccional',
-        centro:
-          'Centro para la Industria de la Comunicación Gráfica – Regional Distrito Capitalo',
-      },
-    ],
-    desarrolloProducto: [
-      {
-        nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
-        nombre: 'Sandra Carolina Duran Lopez',
-        cargo: 'Diseño web',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Jorge Leonardo Camacho Pardo',
-        cargo: 'Desarrollo Front-End',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Zuleidy Maria Ruiz Torres',
-        cargo: 'Producción audiovisual',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
-        nombre: 'Wilson Andrés Arenales Caceres',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Gilberto Junior Rodriguez Rodriguez',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'María Carolina Tamayo Lopez',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Ángela María Maldonado Jaime',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Carmen Alicia Martinez Torres',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Laura Gisselle Murcia Pardo',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-
-      {
-        nombre: 'Yuli Marcela Gómez Tarazona',
-        cargo: 'Validación de diseño y contenido',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-    ],
-    gestoresRepositorio: [
-      {
-        nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-    ],
+  creditosAdicionales: {
+    imagenes:
+      'Fotografías y vectores tomados de <a href="https://www.freepik.es/" target="_blank">www.freepik.es</a>, <a href="https://www.shutterstock.com/" target="_blank">www.shutterstock.com</a>, <a href="https://unsplash.com/" target="_blank">unsplash.com </a>y <a href="https://www.flaticon.com/" target="_blank">www.flaticon.com</a>',
+    creativeCommons:
+      'Licencia creative commons CC BY-NC-SA<br><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">ver licencia</a>',
   },
-  // creditosInicio: [
-  //   {
-  //     titulo: 'En alianza',
-  //     contenido: [
-  //       require('@/assets/template/logo-sena-naranja.svg'),
-  //       require('@/assets/template/mintic.jpg'),
-  //       require('@/assets/template/minsalud.jpg'),
-  //     ],
-  //   },
-  //   {
-  //     titulo: 'En compañía',
-  //     contenido: [
-  //       require('@/assets/template/presidencia.jpg'),
-  //       require('@/assets/template/ecopetrol.jpg'),
-  //     ],
-  //   },
-  //   {
-  //     titulo: 'Una iniciativa',
-  //     contenido: [require('@/assets/template/santander.jpg')],
-  //   },
-  // ],
 }
