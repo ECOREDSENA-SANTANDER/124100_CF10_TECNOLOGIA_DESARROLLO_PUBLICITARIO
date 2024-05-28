@@ -46,7 +46,7 @@
                   |   Círculo cromático
       .col-sm-12.col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema2/img2.png', alt='Marketing')
+          img(src='@/assets/curso/temas/tema2/img2.png', alt='En la imagen se presenta un circulo cromático en el que se señalan los colores primarios y secundarios.')
         figcaption Nota. Desarrollo web (2004).
 
 
@@ -76,7 +76,7 @@
                   | Escalas de color
       .col-sm-12.col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema2/img3.png', alt='Marketing')
+          img(src='@/assets/curso/temas/tema2/img3.png', alt='En la imagen se presentan varias figuras con las diferentes escalas de color que son monocromáticos, análogos, complementarios y triada.')
         figcaption Nota. Desarrollo web (2004).
 
 
@@ -90,7 +90,7 @@
                   | Temperaturas de color
       .col-sm-12.col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema2/img4.png', alt='Marketing')
+          img(src='@/assets/curso/temas/tema2/img4.png', alt='En la imagen se presentan dos semicírculos que indican las temperatus de color  que son colores frios y colores calientes.')
         figcaption Nota. Desarrollo web (2004).
 
 
@@ -108,7 +108,7 @@
             span
               | Matices en el círculo cromático
           figure
-            img(src='@/assets/curso/temas/tema2/img5.png', alt='Marketing')
+            img(src='@/assets/curso/temas/tema2/img5.png', alt='La imagen presenta el círculo cromático con los diferentes matices de color.')
           figcaption Nota. Desarrollo web (2004).
         
 
@@ -125,7 +125,7 @@
               span
                 | Saturación
             figure
-              img(src='@/assets/curso/temas/tema2/img6.png', alt='Marketing')
+              img(src='@/assets/curso/temas/tema2/img6.png', alt='La imagen presenta el círculo cromático con tres juegos de flechas que indican la saturación del color así:  Muy saturados, poco saturados y puros.')
             figcaption Nota. Desarrollo web (2004).
         .row.justify-content-center.mb-5
             .col-lg-12
@@ -136,7 +136,7 @@
                   span
                     | Saturación del color rojo 
               figure.pl-cus
-                img(src='@/assets/curso/temas/tema2/img7.png', alt='Marketing')
+                img(src='@/assets/curso/temas/tema2/img7.png', alt='La imagen presenta cinco rectángulos  con los diferentes niveles de saturación del color rojo.')
               .pl-cus
                 figcaption Nota. Desarrollo web (2004).
       
@@ -154,16 +154,8 @@
                 span
                   | Brillos del color rojo
               figure
-                img(src='@/assets/curso/temas/tema2/img8.png', alt='Marketing')
+                img(src='@/assets/curso/temas/tema2/img8.png', alt='La imagen presneta cinco rectángulos con los diferentes niveles de brillo del color rojo.')
               figcaption Nota. Desarrollo web (2004).
-
-
-
-
-
-
-
-
 
 
     
