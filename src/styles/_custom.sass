@@ -88,11 +88,24 @@
   background-color: #AEE6E6
 .bg8
   background-color: $color-secundario
-
-
-
-
-
+.bg9
+  background-color: #EFFAFA
+.bg10
+  background-color: #B8B0D5
+.bg11
+  background-color: #EFFAF4
+.bg12
+  background-color: #ECE9F4
+.bgimg1
+  background-image: url('../assets/curso/temas/tema3/img20.png');
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center 
+.ml-pl-cus-0
+  margin-left: 0;
+  padding-left: 0;
+.mr-cus-1
+  padding-right: 3rem;
 .px-sm-0
     padding-left: 3rem!important
     padding-right: 3rem!important
@@ -113,9 +126,21 @@
   padding-bottom: 7px
   font-weight: bold
 
+.modal-a__content
+    width: auto;
 .h-card
   height: 480px
 
+.tabs-a__tab 
+    background-color: $color-secundario;
+.tabs-a.color-acento-contenido .tabs-a__tab
+    background-color: #7D6EB2;
+    color: #fff
+.tabs-a.color-acento-contenido .tabs-a__tab__selected 
+    background-color: $color-acento-botones
+    color: #000
+.tabs-a.color-acento-contenido .tabs-a__tab__selected:before 
+    background-color: $color-acento-botones
 .slyder-f__btn
     width: 50px;
     height: 50px;
@@ -142,7 +167,10 @@
     background-color: $color-acento-botones;
     border: 1px solid $color-acento-botones;
     opacity: 1
-
+.cajon.color-secundario 
+    background-color: #BBE5E9;
+.boton.color-acento-botones, .color-acento-botones.boton--sm 
+  border-radius: 25px !important
 .acordion__accion__btn--a 
     background-color: $color-acento-botones;
 .tarjeta--azul
@@ -160,19 +188,50 @@
 .pl-cus
   padding-left: 3.5rem;
 
+.bloque-texto-b__texto * 
+    display: inline-block !important
+
+
+.bloque-texto-b.color-secundario:before 
+    background-color: #AEE6E6;
+
+.bloque-texto-b:before 
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 17%;
+    z-index: 0;
+
+.w-80-cus
+  width: 80%
+
+
+
 
 @media screen and (max-width: $bp-max-md)
   .mb-cus
-    margin-bottom: 2em 
+    margin-bottom: 2em  !important
   .h-card
     height: auto
   .mr-cus
     margin-left: 0
+  .mr-cus-1
+    padding-right: 0rem;
+  .bgimg1
+    background-image: none
+    background-color: #fff
+  .w-80-cus
+    width: 100%
+  .bloque-texto-b:before 
+    right: 0 !important
  
 
 @media screen and (max-width: $bp-max-sm)
   .mb-cus
-    margin-bottom: 2em 
+    margin-bottom: 2em  !important
   .h-card
     height: auto
   .mr-cus
@@ -196,3 +255,12 @@
     padding-right: 10px !important
   .pl-cus
     padding-left: 0;
+  .mr-cus-1
+    padding-right: 0rem;
+  .bgimg1
+    background-image: none
+    background-color: #fff
+  .w-80-cus
+    width: 100%
+  .bloque-texto-b:before 
+    right: 0 !important
