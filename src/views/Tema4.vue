@@ -13,28 +13,31 @@
       h2 4.1 Primer paso, el esbozo 
 
     .row.mb-4(data-aos="zoom-in-left")
-        .col-sm-12.col-lg-7
+        .col-sm-12.col-lg-8
           p.mb-3 Derivado del término italiano #[i bozzetto], el concepto de boceto refiere al esquema o el proyecto que sirve de bosquejo para cualquier obra. Se trata de una guía que permite volcar y exhibir sobre un papel una idea general antes de arribar al trabajo que arrojará un resultado final.
-          p.mb-5 Es una ilustración esquemática que carece de detalles y, en la mayoría de los casos, no posee terminaciones. Su objetivo es simbolizar ideas, pensamientos o conceptos, sin preocuparse por la estética. Por eso, generalmente se realiza sobre cualquier clase de hoja y sin necesidad de disponer de instrumentos de dibujo auxiliares (Definición de, 2020).
-          .cajon.color-secundario.p-4.mb-0.mb-cus Hay que tener presente que al momento en que se comience el bocetaje se debe contar con los elementos que se incluirán en la pieza gráfica: textos, imágenes, logos, etc., así como el brief, concepto y demás; el boceto pretende plasmar en borrador, sin detalle, lo que finalmente será una pieza gráfica.
+          p.mb-5 Es una #[b ilustración esquemática] que carece de detalles y, en la mayoría de los casos, no posee terminaciones. Su objetivo es simbolizar ideas, pensamientos o conceptos, sin preocuparse por la estética. Por eso, generalmente se realiza sobre cualquier clase de hoja y sin necesidad de disponer de instrumentos de dibujo auxiliares (Definición de, 2020).
+          .cajon.color-secundario.p-4.mb-0.mb-cus Sabiendo ya un poco de contexto, lo primero que se debe hacer es desarrollar esbozos de piezas gráficas en los que se evidencie el concepto, el mensaje y los objetivos de comunicación de la campaña.
+          
+        .col-sm-12.col-lg-4
+          img(src='@/assets/curso/temas/tema4/img4.png')
+    p.mb-5 #[b Hay que tener presente que al momento en que se comience el bocetaje se debe contar con los elementos que se incluirán en la pieza gráfica:] textos, imágenes, logos, etc., así como el #[i brief], concepto y demás; el boceto pretende plasmar en borrador, sin detalle, lo que finalmente será una pieza gráfica.
+    p(data-aos="zoom-in-left") Como ejemplo de este proceso se realizará una pieza gráfica de jugo natural de sandía, buscando representar gráficamente la frescura y resaltar los colores de la fruta. Para ello, se hace el boceto con los elementos que deben estar presentes en la pieza, incluyendo el envase, la fruta, salpicaduras de jugo, así como los textos, tal como se presenta en la siguiente figura. 
+    .row.justify-content-center.mb-5
+      .col-sm-12.col-lg-10
+        .titulo-sexto.color-secundario
+            h5 Figura 49.
+            span
+              |  Boceto
 
-        .col-sm-12.col-lg-5
-          .titulo-sexto.color-secundario
-              h5 Figura 49.
-              span
-                |  Boceto
-
-          figure
-            img(src='@/assets/curso/temas/tema4/img1.png', alt='La figura es una fotografía de un dibujo hecho a mano alzada de una pieza grafica acerca de un jugo natural,  se presenta una botella con dos pedazos de fruta.')
-            figcaption Nota. SENA (2020).
+        figure.mb-4
+          img(src='@/assets/curso/temas/tema4/img5.png', alt='La figura es una fotografía de un dibujo hecho a mano alzada de una pieza grafica acerca de un jugo natural,  se presenta una botella con dos pedazos de fruta.')
+          figcaption Nota. SENA (2020).
 
 
-    p(data-aos="zoom-in-left") #[b Hay que tener presente que al momento en que se comience el bocetaje se debe contar con los elementos que se incluirán en la pieza gráfica:] textos, imágenes, logos, etc., así como el brief, concepto y demás; el boceto pretende plasmar en borrador, sin detalle, lo que finalmente será una pieza gráfica.
-    p(data-aos="zoom-in-left") Como ejemplo de este proceso se realizará una pieza gráfica de jugo natural de sandía, buscando representar gráficamente la frescura y resaltar los colores de la fruta. Para ello, se hace el boceto con los elementos que deben estar presentes en la pieza, incluyendo el envase, la fruta, salpicaduras de jugo, así como los textos, tal como se presenta en la figura 49. 
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
         p #[b Más adelante se presentará cómo queda esta pieza gráfica digitalizada.]
-        p El creativo publicitario ve las cosas desde el punto de vista de las personas y desde la perspectiva del negocio, y al desarrollar una pieza gráfica su objetivo no es ganar premios, sino vender productos por medio del mensaje, por ello es un trabajo anónimo. A partir de lo anterior, el portal web Marketing capacitación (2017) aconseja lo siguiente:
+        p El creativo publicitario ve las cosas desde el punto de vista de las personas y desde la perspectiva del negocio, y al desarrollar una pieza gráfica su objetivo no es ganar premios, sino vender productos por medio del mensaje, por ello es un trabajo anónimo. A partir de lo anterior, el portal #[i web ] #[i Marketing ] capacitación (2017) aconseja lo siguiente:
         .bloque-texto-cus.color-secundario.p-4
           .bloque-texto-cus__texto
             .row.justify-content-center.mb-3

@@ -17,7 +17,7 @@
     Separador  
     #t_1_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2  1.1  Estructura del anuncio publicitario     
-    p.mb-5(data-aos="zoom-in-left") El anuncio es la punta del iceberg en la campaña publicitaria; es el elemento que da evidencia del análisis y de las estrategias que se han desarrollado durante todo el proceso creativo, además, tiene una estructura que puede variar de acuerdo con la necesidad y el estilo del anuncio. Estos son los elementos que conforman un anuncio publicitario:
+    p.mb-5(data-aos="zoom-in-left") El anuncio es la punta del #[i iceberg] en la campaña publicitaria; es el elemento que da evidencia del análisis y de las estrategias que se han desarrollado durante todo el proceso creativo, además, tiene una estructura que puede variar de acuerdo con la necesidad y el estilo del anuncio. Estos son los elementos que conforman un anuncio publicitario:
               
 
     .row.justify-content-between.align-items-center.mb-5(data-aos="zoom-in-left")
@@ -42,7 +42,7 @@
           .row.justify-content-center.align-items-center.my-4
             .col-lg-6.d-none.d-lg-block
               img(src='@/assets/curso/temas/tema1/img4.svg')
-          .title-card.bg2.mx-2 Layout
+          .title-card.bg2.mx-2 #[i Layout]
           p.mt-4.text-center.mx-2 Estructura gráfica y compositiva del anuncio; define la ubicación de los elementos dentro del formato.
 
 
@@ -52,7 +52,7 @@
             .col-lg-6.d-none.d-lg-block
               img(src='@/assets/curso/temas/tema1/img5.svg')
           .title-card.bg2.mx-2 Pie de anuncio
-          p.mt-4.text-center.mx-2 Hace referencia al anunciante y a los diferentes puntos de contacto: sitios web, redes sociales, teléfonos, correo electrónico y ubicación del punto de venta. Es el elemento que permite el proceso de retroalimentación.
+          p.mt-4.text-center.mx-2 Hace referencia al anunciante y a los diferentes puntos de contacto: sitios #[i web ], redes sociales, teléfonos, correo electrónico y ubicación del punto de venta. Es el elemento que permite el proceso de retroalimentación.
 
       .col-sm-12.col-lg-2.justify-content-center.mx-0.px-0
         .bg1.px-1.py-3.h-card.mb-cus
@@ -124,7 +124,7 @@
           img(src='@/assets/curso/temas/tema1/img15.svg')
           .tarjeta.color-secundario-cus-2.w-100
             .p-4.text-center
-              p.mb-0 #[strong Fática:] direcciones, teléfonos, sitios web, redes sociales o ubicación de la empresa.
+              p.mb-0 #[strong Fática:] direcciones, teléfonos, sitios #[i web ], redes sociales o ubicación de la empresa.
 
 
 
@@ -137,25 +137,27 @@
         img(src='@/assets/curso/temas/tema1/img17.png')
         p.mt-3.text-center #[strong Relevo:] el encabezado es predominante y la imagen pasa a un segundo plano.             
 
+    .row.justify-content-start.mb-4(data-aos="zoom-in-left")
+      .col-sm-12.col-lg-6
+        .d-flex.align-items-center.mt-4
+            img.w-card-icon(src="@/assets/template/icon-card.svg")
+            h3.bg13.py-2.w-card-text Estilos en los anuncios publicitarios 
 
-
-    .d-flex.mb-4(data-aos="zoom-in-left")
-      .bg4 Estilos 
-      .bg5 en los anuncios publicitarios 
+   
     p.mb-5(data-aos="zoom-in-left") Los siguientes son estilos de anuncios publicitarios que se explican de acuerdo con lo indicado en el blog Pixel Creativo (2014):
     .bg2.px-5.px-sm-0.pt-4.pb-4.mb-5(data-aos="zoom-in-left")
       SlyderA(tipo="b")
         .py-3.bg6.px-5
           .row.justify-content-center.align-content-start
             .col-sm-12.col-lg-7.mb-0.mt-5
-              .h4 Unificación: 
-              p con el uso de un recurso preexistente se crea una asociación con el mensaje para darle un sentido específico, esta técnica se utiliza con más frecuencia en BTL y outdoors, como se muestra en la siguiente figura.
+              span.bg14 Unificación: 
+              | con el uso de un recurso preexistente se crea una asociación con el mensaje para darle un sentido específico, esta técnica se utiliza con más frecuencia en BTL y outdoors, como se presenta en la siguiente figura.
+              
+            .col-sm-12.col-lg-5
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 1.
                 span
                   |   Unificación
-            .col-sm-12.col-lg-5
-              
               figure
                 img(src='@/assets/curso/temas/tema1/img18.png', alt='La imagen representa una lámpara de alumbrado público en una calle de una ciudad. En la parte alta de la lámpara se presenta una jarra de la cual se vierte un líquido  que simula el poste de la lámpara y termina su recorrido en la figura de un vaso con el logotipo de la marca McDonalds.')
               figcaption Nota. Marca registrada McDonald's (s.f.).
@@ -163,13 +165,15 @@
         .py-3.bg6.px-5
           .row.justify-content-center.align-content-start
             .col-sm-12.col-lg-7.mb-0.mt-5
-              .h4 Metáfora:
-              p es utilizada en soluciones principalmente gráficas, aquí se busca un elemento que tenga cierta asociación al producto o servicio, y se une el producto con este símbolo; esta técnica es eficiente cuando el mensaje es demasiado abstracto para ponerlo en palabras, ya que la potencia comunicacional del símbolo no necesita explicaciones. En la figura 2 se muestra un ejemplo.
+              span.bg14 Metáfora:
+              | es utilizada en soluciones principalmente gráficas, aquí se busca un elemento que tenga cierta asociación al producto o servicio, y se une el producto con este símbolo; esta técnica es eficiente cuando el mensaje es demasiado abstracto para ponerlo en palabras, ya que la potencia comunicacional del símbolo no necesita explicaciones. En la figura 2 se presenta un ejemplo.
+              
+            .col-sm-12.col-lg-5
+              
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 2.
                 span
                   |   Metáfora
-            .col-sm-12.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema1/img19.png', alt='La imagen representa una lámpara de alumbrado público en una calle de una ciudad. En la parte alta de la lámpara se presenta una jarra de la cual se vierte un líquido  que simula el poste de la lámpara y termina su recorrido en la figura de un vaso con el logotipo de la marca McDonalds.')
               figcaption Nota. Marca registrada Mentos (s.f.).
@@ -177,13 +181,15 @@
         .py-3.bg6.px-5
           .row.justify-content-center.align-content-start
             .col-sm-12.col-lg-7.mb-0.mt-5
-              .h4 Inversión:
-              p en lugar de decirle al espectador lo bueno que es tener el producto, aquí se muestra la consecuencia extrema de no tener o no usar el producto, tal como se ilustra en la siguiente figura.
+              span.bg14 Inversión:
+              | en lugar de decirle al espectador lo bueno que es tener el producto, aquí se presenta la consecuencia extrema de no tener o no usar el producto, tal como se ilustra en la siguiente figura.
+              
+            .col-sm-12.col-lg-5
+              
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 3.
                 span
                   |   Inversión
-            .col-sm-12.col-lg-5
               
               figure
                 img(src='@/assets/curso/temas/tema1/img20.png', alt='En la figura se presenta fotografía de una persona invidente  que camina cerca a un hueco  que hay en la calle en la cual se realizan obras   y está  siendo conducida por un perro. ')
@@ -192,13 +198,15 @@
         .py-3.bg6.px-5
           .row.justify-content-center.align-content-start
             .col-sm-12.col-lg-7.mb-0.mt-5
-              .h4 Esfuerzos extremos:
-              p realizar la comunicación mostrando la ejecución de un esfuerzo exagerado o absurdo del consumidor por conseguir el producto o de la empresa por hacer llegar ese producto al consumidor. Esta técnica es efectiva cuando no existe un diferenciador para el producto y no explica el valor o beneficio del producto, por ello la marca debe estar identificada. Puede ver un ejemplo en la figura que aparece a continuación.
+              span.bg14 Esfuerzos extremos:
+              | realizar la comunicación mostrando la ejecución de un esfuerzo exagerado o absurdo del consumidor por conseguir el producto o de la empresa por hacer llegar ese producto al consumidor. Esta técnica es efectiva cuando no existe un diferenciador para el producto y no explica el valor o beneficio del producto, por ello la marca debe estar identificada. Puede encontrar un ejemplo en la figura que aparece a continuación.
+              
+            .col-sm-12.col-lg-5
+              
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 4.
                 span
                   |   Esfuerzos extremos
-            .col-sm-12.col-lg-5
               
               figure
                 img(src='@/assets/curso/temas/tema1/img21.png', alt='La imagen representa a dos hombre en la zona de abordaje de una nave espacial,  uno de ello le está entregando al otro una lata de Pepsi y este a su vez sostiene un vestido de astronauta.  ')
@@ -207,13 +215,15 @@
         .py-3.bg6.px-5
           .row.justify-content-center.align-content-start
             .col-sm-12.col-lg-7.mb-0.mt-5
-              .h4 Consecuencia extrema: 
-              p en esta técnica la comunicación no se enfoca en la promesa, sino en la exageración de la consecuencia del producto, sea buena o mala, como se ilustra en la siguiente figura.
+              span.bg14 Consecuencia extrema: 
+              | en esta técnica la comunicación no se enfoca en la promesa, sino en la exageración de la consecuencia del producto, sea buena o mala, como se ilustra en la siguiente figura.
+              
+            .col-sm-12.col-lg-5
+              
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 5.
                 span
                   |   Consecuencia extrema
-            .col-sm-12.col-lg-5
               
               figure
                 img(src='@/assets/curso/temas/tema1/img22.png', alt='En la imagen se presenta un rayo de luz que proviene de la linterna de un casco de minero que lleva en su cabeza un pequeño esqueleto y que ilumina un espacio oscuro. ')
@@ -222,41 +232,47 @@
         .py-3.bg6.px-5
           .row.justify-content-center.align-content-start
             .col-sm-12.col-lg-7.mb-0.mt-5
-              .h4 Activación: 
-              p el espectador no se limita solamente a leer o escuchar el mensaje, en esta técnica se invita a generar una acción con el medio que lo transporta, con el fin de generar mayor impacto y recordación, tal cual se muestra en la siguiente figura.
+              span.bg14 Activación: 
+              | el espectador no se limita solamente a leer o escuchar el mensaje, en esta técnica se invita a generar una acción con el medio que lo transporta, con el fin de generar mayor impacto y recordación, tal cual se presenta en la siguiente figura.
+              
+            .col-sm-12.col-lg-5
+              
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 6.
                 span
                   |   Activación
-            .col-sm-12.col-lg-5
               
-              figure.mt-5
+              figure
                 img(src='@/assets/curso/temas/tema1/img23.png', alt=' La imagén presenta tres revistas abiertas en la misma página y una mano que señala algo sobre la revista del centro. ')
               figcaption Nota. Agencia JWT (2007).
 
         .py-3.bg6.px-5
           .row.justify-content-center.align-content-start
             .col-sm-12.col-lg-7.mb-0.mt-5
-              .h4 Comportamiento extremo: 
-              p se exagera el comportamiento de una persona que busca la característica que se quiere comunicar, así comunica un atributo del producto y se utiliza cuando el atributo no es característico del producto frente a la categoría. En la siguiente figura se puede ver un ejemplo.
+              span.bg14 Comportamiento extremo: 
+              | se exagera el comportamiento de una persona que busca la característica que se quiere comunicar, así comunica un atributo del producto y se utiliza cuando el atributo no es característico del producto frente a la categoría. En la siguiente figura se puede encontrar un ejemplo.
+              
+            .col-sm-12.col-lg-5
+              
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 7.
                 span
                   |    Comportamiento extremo
-            .col-sm-12.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema1/img24.png', alt='En la figura se presenta la fotografía de una niña dormida sobre una rebanada de pan  en la mesa del desayuno. ')
               figcaption Nota. Marca registrada Harry’s Bread (s.f.).
         .py-3.bg6.px-5
           .row.justify-content-center.align-content-start
             .col-sm-12.col-lg-7.mb-0.mt-5
-              .h4 Alternativa absurda: 
-              p con esta técnica se busca dar solución a un problema, así el usuario al ver esto, podrá entender que el producto es la mejor alternativa para solucionarlo, como se muestra en la siguiente figura.
+              span.bg14 Alternativa absurda: 
+              | con esta técnica se busca dar solución a un problema, así el usuario al encontrar esto, podrá entender que el producto es la mejor alternativa para solucionarlo, como se presenta en la siguiente figura.
+              
+            .col-sm-12.col-lg-5
+              
               .titulo-sexto.color-secundario.mt-5
                 h5 Figura 8.
                 span
                   | Alternativa absurda
-            .col-sm-12.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema1/img25.png', alt=' En la imagen se presenta una mano sosteniendo una cámara fotográfica y en el antebrazo tiene cuatro soportes metálicos.')
               figcaption Nota. Marca registrada Olympus (s.f.). 

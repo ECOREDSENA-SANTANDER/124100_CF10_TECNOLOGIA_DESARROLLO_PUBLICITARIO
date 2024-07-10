@@ -104,7 +104,7 @@ export default {
           },
           {
             numero: '3.3',
-            titulo: 'Layout',
+            titulo: '<i>Layout</i>',
             hash: 't_3_3',
           },
           {
@@ -222,7 +222,7 @@ export default {
     },
     {
       referencia:
-        'Desarrollo web. (2014). Propiedades de los colores. desarrolloweb.com.',
+        'Desarrollo <i>web</i>. (2014). Propiedades de los colores. desarrolloweb.com.',
       link:
         'https://desarrolloweb.com/articulos/1503.php#:~:text=Matiz%20(Hue),mezcla%20de%20las%20ondas%20luminosas',
     },
@@ -237,7 +237,7 @@ export default {
     },
     {
       referencia:
-        'Goodwill Community Foundation. (2021). ¿Qué es tipografía y cómo elegir un tipo de letra? GCFGlobal.',
+        '<i>Goodwill Community Foundation</i>. (2021). ¿Qué es tipografía y cómo elegir un tipo de letra? GCFGlobal.',
       link:
         'https://edu.gcfglobal.org/es/conceptos-basicos-de-diseno-grafico/que-es-tipografia-y-como-elegir-un-tipo-de-letra/1/ ',
     },
@@ -251,7 +251,7 @@ export default {
     },
     {
       referencia:
-        'Marketing capacitación. (2017). ¿Qué es redacción publicitaria? marketingcapacitacion.com.',
+        '<i>Marketing</i> capacitación. (2017). ¿Qué es redacción publicitaria? marketingcapacitacion.com.',
       link:
         'https://www.Marketingcapacitacion.com/que-es-redaccion-publicitaria/',
     },
@@ -277,7 +277,7 @@ export default {
     },
     {
       referencia:
-        'Pixel creativo. (2014). Técnicas creativas para realizar publicidad. [Web log post].',
+        '<i>Pixel</i> creativo. (2014). Técnicas creativas para realizar publicidad. [Web log post].',
       link:
         'http://pixel-creativo.blogspot.com/2011/04/tecnicas-creativas-para-realizar.html',
     },
@@ -287,7 +287,7 @@ export default {
       link: 'https://www.marketinhouse.es/que-es-la-proporcion-aurea/',
     },
     {
-      referencia: 'Significados. (2020). Qué es layout.',
+      referencia: 'Significados. (2020). Qué es <i>layout</i>.',
       link:
         'https://www.significados.com/layout/#:~:text=La%20palabra%20Layout%20sirve%20para,disposi%C3%B3n%2C%20plan%20o%20dise%C3%B1o%22',
     },
@@ -304,7 +304,7 @@ export default {
     },
     {
       referencia:
-        'Weber, M. (2007). The layout look book. Guía visual de diseño y maquetación. Instituto Monsa de Ediciones.',
+        'Weber, M. (2007). The <i>layout</i> look book. Guía visual de diseño y maquetación. Instituto Monsa de Ediciones.',
     },
   ],
   creditos: [
@@ -375,7 +375,7 @@ export default {
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
-          cargo: 'Desarrolladora Full-Stack',
+          cargo: 'Desarrolladora <i>Full-Stack</i>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
@@ -390,11 +390,6 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validadora de Recursos Educativos Digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
-        },
-        {
-          nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Validadora de Recursos Educativos Digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },

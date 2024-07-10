@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85" height="62" viewBox="0 0 85 62">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_401519" data-name="Rectángulo 401519" width="62" height="62" transform="translate(207 3884)" fill="#62529b" stroke="#62529b" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="path3567" d="M0-62H62V0H0Z" fill="#62529b"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1099865" data-name="Grupo 1099865" transform="translate(-180 -3884)">
+    <g id="Enmascarar_grupo_1098719" data-name="Enmascarar grupo 1098719" transform="translate(-4)" clip-path="url(#clip-path)">
+      <g id="g3561" transform="translate(207 3946)">
+        <g id="g3563">
+          <g id="g3565" clip-path="url(#clip-path-2)">
+            <g id="g3571" transform="translate(23.168 -50.838)">
+              <path id="path3573" d="M0,0,5.254-9.8a.864.864,0,0,1,1.523,0L12.031,0a.865.865,0,0,1-.761,1.273H.761A.865.865,0,0,1,0,0Z" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g3575" transform="translate(25.983 -33.731)">
+              <path id="path3577" d="M0,0H12.373" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g3579" transform="translate(41.431 -34.535)">
+              <path id="path3581" d="M0,0A.851.851,0,0,0-.1-.469L-4.8-9.237a.864.864,0,0,0-.762-.457H-18.929a.864.864,0,0,0-.762.457l-4.7,8.768A.864.864,0,0,0-23.631.8h3.946" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g3583" transform="translate(30.547 -27.878)">
+              <path id="path3585" d="M0,0H-15.993a.864.864,0,0,0-.762.455l-4.7,8.768a.865.865,0,0,0,.76,1.274H-3.3" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g3587" transform="translate(28.409 -11.653)">
+              <path id="path3589" d="M0,0H-21.8a.865.865,0,0,0-.762.455L-27.4,9.472a.864.864,0,0,0,.76,1.273H28.186a.864.864,0,0,0,.76-1.273L27.228,6.267" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g3591" transform="translate(59.564 -10.794)">
+              <path id="path3593" d="M0,0A16.926,16.926,0,0,1-15.4,9.886,16.924,16.924,0,0,1-32.319-7.038,16.924,16.924,0,0,1-15.4-23.961,16.923,16.923,0,0,1,1.528-7.038,17.029,17.029,0,0,1,1.262-4.03" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g3595" transform="translate(49.321 -24.746)">
+              <path id="path3597" d="M0,0H-10.306V-2.978A1.378,1.378,0,0,1-8.928-4.356h7.551A1.378,1.378,0,0,1,0-2.978Z" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g3599" transform="translate(53.978 -16.48)">
+              <path id="path3601" d="M0,0V6.875A1.378,1.378,0,0,1-1.378,8.252H-18.241a1.378,1.378,0,0,1-1.378-1.378V0" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g3603" transform="translate(47.717 -16.48)">
+              <path id="path3605" d="M0,0H6.432A1.378,1.378,0,0,0,7.811-1.378V-6.889A1.378,1.378,0,0,0,6.432-8.267H-13.53a1.378,1.378,0,0,0-1.378,1.378v5.511A1.378,1.378,0,0,0-13.53,0H-7.1" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g3607" transform="translate(47.12 -14.561)">
+              <path id="path3609" d="M0,0H-5.9a.6.6,0,0,1-.6-.6V-3.24a.6.6,0,0,1,.6-.6H0a.6.6,0,0,1,.6.6V-.6A.6.6,0,0,1,0,0Z" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectángulo_401530" data-name="Rectángulo 401530" width="16" height="62" transform="translate(180 3884)" fill="#62529b"/>
+  </g>
+</svg>

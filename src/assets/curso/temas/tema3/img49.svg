@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85" height="62" viewBox="0 0 85 62">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_401523" data-name="Rectángulo 401523" width="62" height="62" transform="translate(203 5976)" fill="#62529b" stroke="#62529b" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="path3183" d="M0-62H62V0H0Z" fill="#62529b"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1099871" data-name="Grupo 1099871" transform="translate(-180 -5976)">
+    <g id="Enmascarar_grupo_1098726" data-name="Enmascarar grupo 1098726" clip-path="url(#clip-path)">
+      <g id="g3177" transform="translate(203 6038)">
+        <g id="g3179">
+          <g id="g3181" clip-path="url(#clip-path-2)">
+            <g id="g3187" transform="translate(56.619 -39.494)">
+              <path id="path3189" d="M0,0V-17.278A4.32,4.32,0,0,0-4.32-21.6h-42.6a4.319,4.319,0,0,0-4.32,4.319V34.267a4.32,4.32,0,0,0,4.32,4.32h42.6A4.32,4.32,0,0,0,0,34.267V3.633" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g3191" transform="translate(11.294 -30.623)">
+              <path id="path3193" d="M0,0V-22.156a1.69,1.69,0,0,1,1.69-1.69H15.41a1.69,1.69,0,0,1,1.69,1.69V11.68a1.69,1.69,0,0,1-1.69,1.69H1.69A1.69,1.69,0,0,1,0,11.68V3.633" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g3195" transform="translate(49.016 -36.767)">
+              <path id="path3197" d="M0,0H-13.72a1.69,1.69,0,0,1-1.69-1.69V-16.012a1.69,1.69,0,0,1,1.69-1.69H0a1.69,1.69,0,0,1,1.69,1.69V-1.69A1.69,1.69,0,0,1,0,0Z" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g3199" transform="translate(49.016 -17.578)">
+              <path id="path3201" d="M0,0H-13.72a1.69,1.69,0,0,1-1.69-1.69V-11.895a1.69,1.69,0,0,1,1.69-1.69H0a1.69,1.69,0,0,1,1.69,1.69V-1.69A1.69,1.69,0,0,1,0,0Z" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g3203" transform="translate(11.294 -12.392)">
+              <path id="path3205" d="M0,0H39.411" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g3207" transform="translate(11.294 -7.531)">
+              <path id="path3209" d="M0,0H17.1" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g3211" transform="translate(42.156 -47.944)">
+              <path id="path3213" d="M0,0V4.651" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g3215" transform="translate(44.481 -47.944)">
+              <path id="path3217" d="M0,0H-4.651" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g3219" transform="translate(16.04 -47.635)">
+              <path id="path3221" d="M0,0H4.711" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g3223" transform="translate(16.04 -32.887)">
+              <path id="path3225" d="M0,0H4.711" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g3227" transform="translate(16.04 -42.719)">
+              <path id="path3229" d="M0,0H6.594" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g3231" transform="translate(16.04 -37.803)">
+              <path id="path3233" d="M0,0H6.594" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectángulo_401532" data-name="Rectángulo 401532" width="16" height="62" transform="translate(180 5976)" fill="#62529b"/>
+  </g>
+</svg>
