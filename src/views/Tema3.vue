@@ -104,9 +104,9 @@
     p.mb-5 Una composición exitosa significa que se ha organizado, distribuido, alineado y compilado el diseño de manera tal, que no solo se presente bien, sino que también sea altamente funcional y efectivo. Por esta razón, a continuación, se indicarán unos cuantos consejos, trucos y técnicas que harán que se domine la composición en un abrir y cerrar de ojos.
     .bg9
       .row.justify-content-center.mb-5.mr-cus-1.pt-5(data-aos="zoom-in-left")
-        .col-sm-12.col-lg-1
+        .col-sm-12.col-md-1.col-lg-1.d-none.d-lg-block.d-none.d-lg-block
           img.pl-cus-2(src='@/assets/curso/temas/tema3/img41.svg')
-        .col-sm-12.col-lg-11
+        .col-sm-12.col-md-11.col-lg-11.px-sm-cus.px-sm-cus
           .h4 Definir el enfoque
           p.mb-4 Como lo decían cuando se estaba en la escuela #[b “tener enfoque es algo muy importante”]. Un elemento clave para cualquier buena composición es un punto focal sólido, ya que ayuda a dirigir naturalmente los ojos de los espectadores hacia las partes importantes del diseño.
           p.mb-4 Cuando se elija el punto focal se debe tomar en cuenta que el objetivo principal de todo diseño es la comunicación. Independientemente de que se esté comunicando una idea, cierta información o simplemente un sentimiento o una emoción, el diseño está contando una historia específica, así que se debe procurar elegir dicho punto que ayude a contar esa historia de la manera más contundente y efectiva.
@@ -132,9 +132,9 @@
               figcaption Nota. Shauna Lynn Panczyszyn (s.f.).
 
       .row.justify-content-center.mb-5.mr-cus-1(data-aos="zoom-in-left")
-        .col-sm-12.col-lg-1
+        .col-sm-12.col-md-1.col-lg-1.d-none.d-lg-block
           img.pl-cus-2(src='@/assets/curso/temas/tema3/img42.svg')
-        .col-sm-12.col-lg-11
+        .col-sm-12.col-md-11.col-lg-11.px-sm-cus
           .h4 Líneas guía
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-6
@@ -163,9 +163,9 @@
                     figcaption Nota. Trick Pony (s.f.).
 
       .row.justify-content-center.mb-5.mr-cus-1(data-aos="zoom-in-left")
-        .col-sm-12.col-lg-1
+        .col-sm-12.col-md-1.col-lg-1.d-none.d-lg-block
           img.pl-cus-2(src='@/assets/curso/temas/tema3/img43.svg')
-        .col-sm-12.col-lg-11
+        .col-sm-12.col-md-11.col-lg-11.px-sm-cus
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-6
               .h4 Escala y jerarquía
@@ -183,9 +183,9 @@
 
 
       .row.justify-content-center.mb-5.mr-cus-1(data-aos="zoom-in-left")
-        .col-sm-12.col-lg-1
+        .col-sm-12.col-md-1.col-lg-1.d-none.d-lg-block
           img.pl-cus-2(src='@/assets/curso/temas/tema3/img44.svg')
-        .col-sm-12.col-lg-11
+        .col-sm-12.col-md-11.col-lg-11.px-sm-cus
           .h4 Equilibrio de los elementos
           p.mb-5 El equilibrio es muy importante en muchos sentidos y por supuesto que sus diseños no son la excepción. Pero #[b ¿cómo encontrar ese perfecto equilibrio dentro de los diseños? ] En la figura 26 que aparece a continuación se presenta un ejemplo.
           .row.justify-content-center.mb-5
@@ -213,9 +213,9 @@
 
 
       .row.justify-content-center.mb-5.mr-cus-1(data-aos="zoom-in-left")
-        .col-sm-12.col-lg-1
+        .col-sm-12.col-md-1.col-lg-1.d-none.d-lg-block
           img.pl-cus-2(src='@/assets/curso/temas/tema3/img45.svg')
-        .col-sm-12.col-lg-11
+        .col-sm-12.col-md-11.col-lg-11.px-sm-cus
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-8
               .h4 Usar elementos que se complementen entre sí
@@ -232,9 +232,9 @@
       
 
       .row.justify-content-center.mb-5.mr-cus-1(data-aos="zoom-in-left")
-        .col-sm-12.col-lg-1
+        .col-sm-12.col-md-1.col-lg-1.d-none.d-lg-block
           img.pl-cus-2(src='@/assets/curso/temas/tema3/img46.svg')
-        .col-sm-12.col-lg-11
+        .col-sm-12.col-md-11.col-lg-11.px-sm-cus
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-8
               .h4 Colorear las fotos del mismo modo
@@ -250,9 +250,9 @@
               figcaption Nota. #[i A is a Name] (s.f.)
 
       .row.justify-content-center.mb-5.mr-cus-1(data-aos="zoom-in-left")
-        .col-sm-12.col-lg-1
+        .col-sm-12.col-md-1.col-lg-1.d-none.d-lg-block
           img.pl-cus-2(src='@/assets/curso/temas/tema3/img47.svg')
-        .col-sm-12.col-lg-11
+        .col-sm-12.col-md-11.col-lg-11.px-sm-cus
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-8
               .h4 Aumentar o reducir el contraste
@@ -269,9 +269,9 @@
               figcaption Nota. Thebault Julien (s.f.).
 
       .row.justify-content-center.mb-5.mr-cus-1(data-aos="zoom-in-left")
-        .col-sm-12.col-lg-1
+        .col-sm-12.col-md-1.col-lg-1.d-none.d-lg-block
           img.pl-cus-2(src='@/assets/curso/temas/tema3/img48.svg')
-        .col-sm-12.col-lg-11
+        .col-sm-12.col-md-11.col-lg-11.px-sm-cus
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-8.mb-cus
               .h4 Repetir elementos
@@ -290,9 +290,9 @@
 
 
       .row.justify-content-center.mb-5.mr-cus-1(data-aos="zoom-in-left")
-        .col-sm-12.col-lg-1
+        .col-sm-12.col-md-1.col-lg-1.d-none.d-lg-block
           img.pl-cus-2(src='@/assets/curso/temas/tema3/img49.svg')
-        .col-sm-12.col-lg-11
+        .col-sm-12.col-md-11.col-lg-11.px-sm-cus
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-8
               .h4 Dejar espacios en blanco
@@ -309,9 +309,9 @@
               figcaption Nota. Creative Web Themes (s.f.).
 
       .row.justify-content-center.mb-5.mr-cus-1(data-aos="zoom-in-left")
-        .col-sm-12.col-lg-1
+        .col-sm-12.col-md-1.col-lg-1.d-none.d-lg-block
           img.pl-cus-2(src='@/assets/curso/temas/tema3/img50.svg')
-        .col-sm-12.col-lg-11
+        .col-sm-12.col-md-11.col-lg-11.px-sm-cus
           .h4 Dividir espacio en tercios
           p.mb-4 Usar la regla de los tercios es una estupenda manera de empezar la composición del diseño, ya que proporciona una guía rápida para posicionar y enmarcar los elementos.
           p.mb-4 Lo anterior, se puede evidenciar en este diseño de sitio #[i web ] creado por Gajan Vamatheva para National Geographic, luego tómese un momento para imaginarse dónde se interceptarían las líneas de la regla de los tercios. Quizás se note que estas lo hacen encima de los puntos focales de cada imagen –los excursionistas en la primera imagen, el ave más grande en la segunda–. Las líneas se interceptarían en puntos alrededor de los cuadros de texto, dirigiendo el ojo hacia estos puntos, como se presenta en la siguiente figura.
@@ -331,7 +331,7 @@
         .row 
           .col-sm-12.col-lg-8
             p.mb-3 La proporción áurea cuenta con diversos nombres, se puede llamar proporción áurea, número áureo o incluso la divina proporción, al final todas estas palabras significan lo mismo. La proporción áurea parte de un número irracional (1:1.618), el cual proviene de la sucesión de #[i Fibonacci]. 
-            p.mb-0 Se emplea este principio dentro de un rectángulo que se ajusta a los parámetros del número áureo (1.618). Al ser ajustado se puede evidenciar la sucesión de #[i Fibonacci]. A medida que se hace la espiral se van sacando segmentos dentro del rectángulo, cuyos valores son los mismos que los de la sucesión de #[i Fibonacci] (1, 2, 3, 5, 8, 13, 21, 34, etc.). Como se ha podido evidenciar, realizar la divina proporción es más simple si se aplica en la práctica. Este principio es fundamental dentro del mundo del diseño y ayudará a realizar obras simétricamente estéticas.
+            p.mb-cus-3 Se emplea este principio dentro de un rectángulo que se ajusta a los parámetros del número áureo (1.618). Al ser ajustado se puede evidenciar la sucesión de #[i Fibonacci]. A medida que se hace la espiral se van sacando segmentos dentro del rectángulo, cuyos valores son los mismos que los de la sucesión de #[i Fibonacci] (1, 2, 3, 5, 8, 13, 21, 34, etc.). Como se ha podido evidenciar, realizar la divina proporción es más simple si se aplica en la práctica. Este principio es fundamental dentro del mundo del diseño y ayudará a realizar obras simétricamente estéticas.
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-3
         .titulo-sexto.color-secundario
@@ -352,6 +352,9 @@
           img(src='@/assets/curso/temas/tema3/img22.png', alt='La imagen presenta una flor con el centro blanco, luego pétalos amarillos, luego pétalos verde claro y por ultimo pétalos verde oscuro.')
         figcaption Nota. Rodríguez (2020).
     .row.mb-5(data-aos="zoom-in-left")
+      .col-sm-12.col-lg-8
+        p.mb-3.mt-5.pt-2 La publicidad, la fotografía de modas y el mundo de la moda, en general, ha vivido durante años un ambiente de críticas debido a la necesidad de mostrar el ideal de belleza que como sociedad se ha impuesto, por supuesto, presionados por estándares que no siempre son realistas. 
+        p.mb-0 En el siguiente ejemplo se puede evidenciar un patrón de fisonomía, atendiendo a la proporción áurea, claro está, la industria de la moda se apoya en la tecnología de retoque fotográfico para ello.
       .col-sm-12.col-lg-4
         .titulo-sexto.color-secundario
           h5 Figura 36.
@@ -360,22 +363,20 @@
         figure
           img(src='@/assets/curso/temas/tema3/img23.png', alt='La figura presenta la fotografía de la cara de una mujer en tres veces, en la primera fotografía la mujer tiene el rostro más ancho, en la segunda tiene líneas que simulan estar ajustando sus facciones, y en la tercera se nota un rostro mucho más delgado.')
         figcaption Nota. Garden Style (2020).
-      .col-sm-12.col-lg-8
-        p.mb-3.mt-5.pt-2 La publicidad, la fotografía de modas y el mundo de la moda, en general, ha vivido durante años un ambiente de críticas debido a la necesidad de mostrar el ideal de belleza que como sociedad se ha impuesto, por supuesto, presionados por estándares que no siempre son realistas. 
-        p.mb-0 En el siguiente ejemplo se puede evidenciar un patrón de fisonomía, atendiendo a la proporción áurea, claro está, la industria de la moda se apoya en la tecnología de retoque fotográfico para ello.
-
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-4
-        p.mb-5 Por supuesto, no siempre es necesario editar para lograr esta proporción ideal, simplemente haciendo uso de #[b técnicas de composición ]  se puede lograr; tal como se evidencia en el ejemplo que se encuentra a continuación.
-        
-      .col-sm-12.col-lg-4
-        .titulo-sexto.color-secundario
-          h5 Figura 37.
-          span
-            | Técnicas de composición
-        figure
-          img(src='@/assets/curso/temas/tema3/img24.png', alt='La figura presenta la fotografía de dos mujeres, recostadas sobre una tela de rayas rojas y blancas, tomándose una cocacola.')
-        figcaption Nota. Xavier Roca Sancho (2016).
+    .row.justify-content-center.align-items-center.mb-5
+      .col-sm-12.col-lg-10.bg16.p-4
+        .row.justify-content-center.align-items-center.mb-0.px-5
+          .col-sm-12.col-lg-6
+            p.mb-5 Por supuesto, no siempre es necesario editar para lograr esta proporción ideal, simplemente haciendo uso de #[b técnicas de composición ]  se puede lograr; tal como se evidencia en el ejemplo que se encuentra a continuación.
+            
+          .col-sm-12.col-lg-6
+            .titulo-sexto.color-secundario
+              h5 Figura 37.
+              span
+                | Técnicas de composición
+            figure.mb-0
+              img(src='@/assets/curso/temas/tema3/img24.png', alt='La figura presenta la fotografía de dos mujeres, recostadas sobre una tela de rayas rojas y blancas, tomándose una cocacola.')
+            figcaption Nota. Xavier Roca Sancho (2016).
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-6
         .d-flex.align-items-center.mt-4
@@ -402,7 +403,7 @@
     #t_3_3.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2 3.3 #[i Layout ]
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-9
+      .col-sm-12.col-lg-12
         p.mb-3 La palabra #[i layout ] sirve para hacer referencia al esquema que será utilizado y cómo están distribuidos los elementos y formas dentro de un diseño. Es un vocablo del idioma inglés, y no existe o no forma parte del texto del diccionario de la Real Academia Española; sin embargo, se traduce como disposición, plan o diseño (Significados, 2020)
         p.mb-5 El #[i layout ], en términos publicitarios, expone el arreglo de los elementos gráficos dentro de un anuncio en un soporte determinado. Coordina la medida y posición de cada uno de los elementos y recursos que componen un anuncio o pieza publicitaria (Pix, 2013).
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
@@ -414,7 +415,7 @@
       
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-8
-        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="zoom-in-left")
+        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul-cus")(data-aos="zoom-in-left")
           .row(titulo="Póster")
             .col-sm-12.col-lg-12
               p.mb-3.pl-cus Estas piezas publicitarias hacen énfasis en la parte visual, ocupando todo el espacio con una sola imagen que narra una historia con sencillez y transmite emociones con un concepto bien logrado, tal como se presenta en la siguiente figura.
@@ -518,7 +519,7 @@
             | Tipografías
         img(src='@/assets/curso/temas/tema3/img52.png', alt='La figura presenta un comparativo entre la tipografía serif y sin serif. Adicionalmente resalta que la serif es elegante, tradicional, glamurosa y clásica;  y la sin serif es moderna, limpia, racional y versátil.')
     .row.justify-content-center.mb-5
-      .col-sm-12.col-lg-4         
+      .col-sm-12.col-md-6.col-lg-4.mb-cus-4         
         .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
@@ -527,7 +528,7 @@
               img.mb-3(src='@/assets/curso/temas/tema3/img56.png')
               h4 #[i Serif]
               p.mb-0 Se caracterizan por tener pequeños trazos que se extienden en los extremos de las letras, expresan un sentido clásico y tradicional.
-      .col-sm-12.col-lg-4         
+      .col-sm-12.col-md-6.col-lg-4         
         .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
@@ -536,7 +537,7 @@
               img.mb-3(src='@/assets/curso/temas/tema3/img57.png')
               h4 #[i Sin Serif]
               p.mb-0 A diferencia de las serif, estas no tienen trazos que sobresalen de sus extremos, sino cortes limpios y precisos, son de mejor legibilidad y se las relaciona con modernidad y elegancia.
-      .col-sm-12.col-lg-4         
+      .col-sm-12.col-md-6.col-lg-4.mt-cus         
         .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
@@ -547,7 +548,7 @@
               p.mb-0 Depende del contexto en que se use puede expresar diversión o modernidad; sin embargo, no son muy legibles en textos largos, por lo que hay que tener cuidado con su uso. 
     
     p.mb-5(data-aos="zoom-in-left") Ahora bien, para complementar lo indicado por Morales (2016), el portal #[i web ] #[i Goodwill Community Foundation] (2020) manifiesta los elementos a tener en cuenta en la tipografía como la jerarquía, el interlineado, el espaciado y el interletraje, los cuales se explican a continuación.                           
-    TabsA.color-acento-contenido.mb-5(data-aos="zoom-in-left")
+    TabsA.color-acento-botones.mb-5
       .tarjeta.bg12.p-5(titulo="La jerarquía")
         .row.justify-content-center
           .col-sm-12.col-lg-8

@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Diseño de piezas gráficas',
     descripcionCurso:
       'Una pieza gráfica es una composición visual de diseño que se compone, por lo general, de texto, imagen y logo de la marca; su objetivo es transmitir un mensaje al consumidor o usuario, a través de estos elementos integrados en un concepto creativo que genere recordación y una respuesta por parte del público objetivo de la marca.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {

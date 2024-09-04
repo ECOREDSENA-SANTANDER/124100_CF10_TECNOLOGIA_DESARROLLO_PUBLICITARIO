@@ -18,7 +18,7 @@
           p.mb-5 Es una #[b ilustración esquemática] que carece de detalles y, en la mayoría de los casos, no posee terminaciones. Su objetivo es simbolizar ideas, pensamientos o conceptos, sin preocuparse por la estética. Por eso, generalmente se realiza sobre cualquier clase de hoja y sin necesidad de disponer de instrumentos de dibujo auxiliares (Definición de, 2020).
           .cajon.color-secundario.p-4.mb-0.mb-cus Sabiendo ya un poco de contexto, lo primero que se debe hacer es desarrollar esbozos de piezas gráficas en los que se evidencie el concepto, el mensaje y los objetivos de comunicación de la campaña.
           
-        .col-sm-12.col-lg-4
+        .col-sm-12.col-lg-4.d-none.d-lg-block
           img(src='@/assets/curso/temas/tema4/img4.png')
     p.mb-5 #[b Hay que tener presente que al momento en que se comience el bocetaje se debe contar con los elementos que se incluirán en la pieza gráfica:] textos, imágenes, logos, etc., así como el #[i brief], concepto y demás; el boceto pretende plasmar en borrador, sin detalle, lo que finalmente será una pieza gráfica.
     p(data-aos="zoom-in-left") Como ejemplo de este proceso se realizará una pieza gráfica de jugo natural de sandía, buscando representar gráficamente la frescura y resaltar los colores de la fruta. Para ello, se hace el boceto con los elementos que deben estar presentes en la pieza, incluyendo el envase, la fruta, salpicaduras de jugo, así como los textos, tal como se presenta en la siguiente figura. 
@@ -46,26 +46,26 @@
                 p.fw-bold Antes de empezar, piense en el receptor del mensaje y hágase las siguientes preguntas:
               .col-sm-12.col-lg-6
                 ol.lista-ol--cuadro.lista-ol--cuadro--separador
-                  li 
+                  li.d-flex
                     .lista-ol--cuadro__vineta
                       span 1
-                    | ¿Para quién estoy creando el mensaje?
-                  li 
+                    span ¿Para quién estoy creando el mensaje?
+                  li.d-flex
                     .lista-ol--cuadro__vineta
                       span 2
-                    | ¿Qué saben los consumidores de la compañía y del producto?
-                  li 
+                    span ¿Qué saben los consumidores de la compañía y del producto?
+                  li.d-flex
                     .lista-ol--cuadro__vineta
                       span 3
-                    | ¿Qué quieren conocer?
-                  li 
+                    span ¿Qué quieren conocer?
+                  li.d-flex
                     .lista-ol--cuadro__vineta
                       span 4
-                    | ¿Por qué están viendo esta publicación?
-                  li 
+                    span ¿Por qué están viendo esta publicación?
+                  li.d-flex
                     .lista-ol--cuadro__vineta
                       span 5
-                    | ¿Cuál es la propuesta de valor del producto o servicio?
+                    span ¿Cuál es la propuesta de valor del producto o servicio?
       .col-sm-12.col-lg-2.z-index-cus.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema4/img2.svg')
 

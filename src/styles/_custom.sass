@@ -110,6 +110,9 @@
   font-weight: bold
 .bg15
   background-color: #AEE6E6
+.bg16
+  background-color: #C5EDED
+  border-radius: 20px
 
 .bgimg1
   background-image: url('../assets/curso/temas/tema3/img20.png');
@@ -163,22 +166,13 @@
   height: 480px
 
 .tabs-a__tab 
-    background-color: $color-secundario;
-.tabs-a.color-acento-contenido .tabs-a__tab
-    background-color: #7D6EB2;
+    background-color: $color-acento-contenido;
     color: #fff
-.tabs-a.color-acento-contenido .tabs-a__tab__selected 
-    background-color: $color-acento-botones
-    color: #000
-.tabs-a.color-acento-contenido .tabs-a__tab__selected:before 
-    background-color: $color-acento-botones
 .slyder-f__btn
     width: 50px;
     height: 50px;
     background-color: $color-acento-botones;
     border-radius: 50%;
-    position: sticky;
-    top: 44%;
 .slyder-f__btn i 
     font-size: 2rem !important
 .slyder-f__btn.pe-3
@@ -208,6 +202,10 @@
     background-color: $color-secundario;
 .tarjeta--azul
     background-color: #D3EEF1 !important
+.tarjeta--azul-cus
+    background-color: #F2F6F6
+.tarjeta--azul-cus.acordion__activo
+    background-color: #D3EEF1
 .bloque-texto-e.color-secundario 
     background-color: #DEDAEC;
 .bloque-texto-e i 
@@ -294,17 +292,30 @@
   .mr-cus-1
     padding-right: 0rem;
   .bgimg1
-    background-image: none
+    background-image: url('../assets/curso/temas/tema3/img60.png') !important;
+    background-size: contain
+    background-repeat: no-repeat
+    background-position: bottom 
     background-color: #fff
+  .mb-cus-3
+    margin-bottom: 12em  !important
   .w-80-cus
     width: 100%
+  .bloque-texto-g__img.img-inv, .bloque-texto-g__img
+    width: 100% !important
   .bloque-texto-b:before 
     right: 0 !important
   .bloque-texto-cus:before 
     right: 0  !important
   .bloque-texto-g 
     padding-top: 20px !important;
- 
+  .bloque-texto-g--inverso
+    justify-content: center !important
+  .mt-cus
+    margin-top: 2em  !important
+  .px-sm-cus
+    padding-left: 2rem!important
+    padding-right: 2rem!important
 
 @media screen and (max-width: $bp-max-sm)
   .mb-cus
@@ -335,8 +346,14 @@
   .mr-cus-1
     padding-right: 0rem;
   .bgimg1
-    background-image: none
+    background-image: url('../assets/curso/temas/tema3/img60.png') !important;
+    background-size: contain
+    background-repeat: no-repeat
+    background-position: bottom 
     background-color: #fff
+  .mb-cus-3
+    margin-bottom: 12em  !important
+  
   .w-80-cus
     width: 100%
   .bloque-texto-b:before 
@@ -345,3 +362,7 @@
     right: 0  !important
   .bloque-texto-g 
     padding-top: 20px !important;
+
+@media screen and (max-width: $bp-max-xs)
+  .mb-cus-4
+    margin-bottom: 2em  !important

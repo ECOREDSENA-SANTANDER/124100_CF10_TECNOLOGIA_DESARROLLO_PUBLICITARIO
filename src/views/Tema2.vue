@@ -58,18 +58,18 @@
         |  son conocidas por ser cromáticas (con color: verde, azul, amarillo, etc.) y acromáticas (sin color: negro, gris) y, para que llegue a tomarse como escala, es porque antes ha tenido una variación graduada de luminosidad, tono o saturación. De manera que las escalas de color se entienden como:
         .bg7.py-4.px-4.my-4
           ul.lista-ul--color
-            li.mb-0 
+            li.mb-0.d-flex 
               i.fas.fa-check.color-circle.mb-0
-              | #[b Monocromáticos:] referente a los matices de un solo color.
-            li.mb-0 
+              span #[b Monocromáticos:] referente a los matices de un solo color.
+            li.mb-0.d-flex 
               i.fas.fa-check.color-circle.mb-0
-              | #[b Análogos:] armonía en la que se incluyen dos o tres colores.
-            li.mb-0 
+              span #[b Análogos:] armonía en la que se incluyen dos o tres colores.
+            li.mb-0.d-flex 
               i.fas.fa-check.color-circle.mb-0
-              | #[b Complementarios:] conocidos por ser un resultado neutral de una combinación de colores.
-            li.mb-0 
+              span #[b Complementarios:] conocidos por ser un resultado neutral de una combinación de colores.
+            li.mb-0.d-flex 
               i.fas.fa-check.color-circle.mb-0
-              | #[b Tríada:] cuando se utiliza del círculo cromático una combinación de colores que da un triángulo equilátero, es decir, colores equidistantes entre sí.
+              span #[b Tríada:] cuando se utiliza del círculo cromático una combinación de colores que da un triángulo equilátero, es decir, colores equidistantes entre sí.
         p.mb-2 En la siguiente figura se presentan estas escalas de color.
         
       .col-sm-12.col-lg-4
@@ -104,7 +104,7 @@
             img.w-card-icon(src="@/assets/template/icon-card.svg")
             h3.bg13.py-2.w-card-text Propiedades de los colores
     p.mb-5(data-aos="zoom-in-left") A continuación, se describen las propiedades que hacen parte de los colores, tomando como referencia lo que se indica en la página de internet denominada Desarrollo #[i web ] (2004):
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="zoom-in-left")
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul-cus")(data-aos="zoom-in-left")
       .row(titulo="Matiz")
         .col-sm-12.col-lg-8
           p.mb-3.pl-cus Es el estado puro del color, sin el blanco o negro agregados, y es un atributo asociado con la longitud de onda dominante en la mezcla de las ondas luminosas. El matiz se define como un atributo de color que permite distinguir el rojo del azul, y se refiere al recorrido que hace un tono hacia uno u otro lado del círculo cromático, por lo que el verde amarillento y el verde azulado serán matices diferentes del verde, tal como se presenta en la figura 12.
@@ -186,11 +186,11 @@
       h2 2.4 Significado de los colores
     
     p.mb-5(data-aos="zoom-in-left") Asimismo, para este tema se aborda lo socializado en dicho portal #[i web ] sobre esta teoría, donde se establecen algunos significados de los colores:
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in-left")
+    SlyderF.align-items-center.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in-left")
       .tarjeta.color-secundario-cus.p-4
-        .title-card-2.bg8.mb-3 Amarillo
+        h4.title-card-2.bg8.mb-3 Amarillo
         .row.justify-content-center.mb-3
-          .col-sm-3.col-lg-12.my-1
+          .col-sm-3.col-md-6.col-lg-12.my-1
             img(src='@/assets/curso/temas/tema2/img10.png')
         p.text-center Se trata de un color que, popularmente, simboliza el optimismo, la juventud, la autoestima, la seguridad, la amistad, la creatividad y la extroversión. Al igual que el rojo, es un color que llama la atención, aunque utilizado en exceso puede ocasionar fatiga visual.
         p.text-center No obstante, no todo son cualidades positivas, ya que también posee ciertas connotaciones negativas. Puede percibirse como miedo, advertencia y engaño, además, habitualmente se le relaciona como símbolo de la mala suerte.
@@ -198,25 +198,25 @@
 
 
       .tarjeta.color-secundario-cus.p-4
-        .title-card-2.bg8.mb-3 Rojo
+        h4.title-card-2.bg8.mb-3 Rojo
         .row.justify-content-center.mb-3
-          .col-sm-3.col-lg-12.my-1
+          .col-sm-3.col-md-6.col-lg-12.my-1
             img(src='@/assets/curso/temas/tema2/img11.png')
         p.text-center Es un color que se relaciona con la energía y la supervivencia, aporta emoción, valor y fuerza. Además, es considerado como el color de la llama del fuego, el más intenso, tendiendo a llamar a la acción a primera vista.
         p.text-center De hecho, en la psicología del color el rojo suele considerarse el color más intenso, causando las emociones más potentes.
 
       .tarjeta.color-secundario-cus.p-4
-        .title-card-2.bg8.mb-3 Naranja
+        h4.title-card-2.bg8.mb-3 Naranja
         .row.justify-content-center.mb-3
-          .col-sm-3.col-lg-12.my-1
+          .col-sm-3.col-md-6.col-lg-12.my-1
             img(src='@/assets/curso/temas/tema2/img12.png')
         p.text-center Se trata de un color que representa el éxito, la creatividad, la aventura, el entusiasmo, el calor, la calidad y anima además a mantener cierto equilibrio.
         p.text-center A diferencia del color amarillo o del color rojo, es utilizado como variante de estos al ser capaz de capturar la vista, pero sin saturarla.
 
       .tarjeta.color-secundario-cus.p-4
-        .title-card-2.bg8.mb-3 Verde
+        h4.title-card-2.bg8.mb-3 Verde
         .row.justify-content-center.mb-3
-          .col-sm-3.col-lg-12.my-1
+          .col-sm-3.col-md-6.col-lg-12.my-1
             img(src='@/assets/curso/temas/tema2/img13.png')
         p.text-center Aporta relajación, equilibrio, sensación de paz y armonía, frescura, ponderación, conciencia, seguridad y anima al descanso. Es un color que habitualmente se relaciona con lo ecológico, y que además simboliza la naturaleza. Por ello, también se asocia con la fertilidad, el crecimiento y la salud.
         p.text-center En #[i marketing ] y publicidad suele utilizarse en marcas vinculadas a la ecología, al medio ambiente y a la naturaleza en general, pero también a marcas relacionadas con la salud y con la actividad física.
@@ -224,15 +224,15 @@
       .tarjeta.color-secundario-cus.p-4
         .title-card-2.bg8.mb-3 Marrón (café)
         .row.justify-content-center.mb-3
-          .col-sm-3.col-lg-12.my-1
+          .col-sm-3.col-md-6.col-lg-12.my-1
             img(src='@/assets/curso/temas/tema2/img14.png')
         p.text-center Es el color de la tierra por excelencia, así como de la madera. Por ello, se relaciona también con la naturaleza, destacando entre sus significados emocionales la seguridad, la comodidad, la sensación de calidez, apoyo y confianza.
         p.text-center En #[i marketing ] y publicidad es un color utilizado por marcas que desean aportar confianza, tranquilidad y seguridad, no solo en empresas relacionadas con alimentos o productos naturales.
 
       .tarjeta.color-secundario-cus.p-4
-        .title-card-2.bg8.mb-3 Azul
+        h4.title-card-2.bg8.mb-3 Azul
         .row.justify-content-center.mb-3
-          .col-sm-3.col-lg-12.my-1
+          .col-sm-3.col-md-6.col-lg-12.my-1
             img(src='@/assets/curso/temas/tema2/img15.png')
         p.text-center El color azul es, por lo general, el color de la comunicación, de la confianza, la paz, la estabilidad y la armonía, y se relaciona habitualmente no solo con el cielo sino también con el mar.
         p.text-center En #[i marketing ] y publicidad se considera que el color azul aporta sensación de confiabilidad y de relajación, seguridad y calidad
@@ -240,37 +240,37 @@
       .tarjeta.color-secundario-cus.p-4
         .title-card-2.bg8.mb-3 Rosado
         .row.justify-content-center.mb-3
-          .col-sm-3.col-lg-12.my-1
+          .col-sm-3.col-md-6.col-lg-12.my-1
             img(src='@/assets/curso/temas/tema2/img16.png')
         p.text-center Es un color que habitualmente se asocia al público femenino. De hecho, en la psicología del color se relaciona con la feminidad, pero también se asocia al amor, a la pareja y a la sexualidad. El significado del color rosa tiene que ver con el amor, el cariño y el encanto.
         p.text-center En publicidad y #[i marketing ] es un color que habitualmente es utilizado por marcas que trabajan para el público femenino, aunque en los últimos años muchas personas procuran romper la relación cultural entre el color rosa y las mujeres, como sucede con el color azul y los varones (especialmente con los niños y las niñas, por ejemplo, en la ropa y los juguetes).
 
       .tarjeta.color-secundario-cus.p-4
-        .title-card-2.bg8.mb-3 Blanco
+        h4.title-card-2.bg8.mb-3 Blanco
         .row.justify-content-center.mb-3
-          .col-sm-3.col-lg-12.my-1
+          .col-sm-3.col-md-6.col-lg-12.my-1
             img(src='@/assets/curso/temas/tema2/img17.png')
         p.text-center El blanco es un color que nos aporta luminosidad, limpieza, pureza, claridad, inocencia. También aporta sensación de simplicidad y humildad, y es el símbolo de la bondad por naturaleza.
 
       .tarjeta.color-secundario-cus.p-4
         .title-card-2.bg8.mb-3 Negro
         .row.justify-content-center.mb-3
-          .col-sm-3.col-lg-12.my-1
+          .col-sm-3.col-md-6.col-lg-12.my-1
             img(src='@/assets/curso/temas/tema2/img18.png')
         p.text-center Es un color que aporta eficacia, seguridad, elegancia, poder, #[i glamour ] y sofisticación. Por ello, se trata de un color utilizado por marcas de alto prestigio que dirigen sus productos a un público mayormente de clase alta. En su aspecto más negativo su significado se asocia con la pérdida y la muerte.
 
       .tarjeta.color-secundario-cus.p-4
-        .title-card-2.bg8.mb-3 Violeta (púrpura)
+        h4.title-card-2.bg8.mb-3 Violeta (púrpura)
         .row.justify-content-center.mb-3
-          .col-sm-3.col-lg-12.my-1
+          .col-sm-3.col-md-6.col-lg-12.my-1
             img(src='@/assets/curso/temas/tema2/img19.png')
         p.text-center Es un color que se asocia con la psicología, con la espiritualidad, la verdad y la calidad. Además, se relaciona claramente con la sabiduría, el lujo, la nobleza, la contención y también el poder.
         p.text-center Por otro lado, puede causar sentimientos relacionados con la sensación de inferioridad, la introversión o la frustración, siendo percibido incluso como un color arrogante. Por ello, no se aconseja su uso de forma excesiva, dependiendo también del tono de violeta escogido.
 
       .tarjeta.color-secundario-cus.p-4
-        .title-card-2.bg8.mb-3 Gris
+        h4.title-card-2.bg8.mb-3 Gris
         .row.justify-content-center.mb-3
-          .col-sm-3.col-lg-12.my-1
+          .col-sm-3.col-md-6.col-lg-12.my-1
             img(src='@/assets/curso/temas/tema2/img20.png')
         p.text-center El significado habitual del color gris se asocia a la neutralidad y al equilibrio, al ser una mezcla entre el blanco y el negro. De hecho, utilizado de forma inteligente con ambos colores puede transmitir limpieza y neutralidad. No obstante, es un color que puede llegar a causar aburrimiento, tendiendo a la vez a transmitir sensación de pérdida y depresión. (Viviendo la salud, 2020)
 

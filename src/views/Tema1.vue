@@ -20,30 +20,30 @@
     p.mb-5(data-aos="zoom-in-left") El anuncio es la punta del #[i iceberg] en la campaña publicitaria; es el elemento que da evidencia del análisis y de las estrategias que se han desarrollado durante todo el proceso creativo, además, tiene una estructura que puede variar de acuerdo con la necesidad y el estilo del anuncio. Estos son los elementos que conforman un anuncio publicitario:
               
 
-    .row.justify-content-between.align-items-center.mb-5(data-aos="zoom-in-left")
+    .row.justify-content-evenly.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-2.justify-content-center.mx-0.px-0
         .bg1.px-1.py-3.h-card.mb-cus
           .row.justify-content-center.align-items-center.my-4
             .col-lg-6.d-none.d-lg-block
               img(src='@/assets/curso/temas/tema1/img2.svg')
-          .title-card.bg2.mx-2 Encabezado
-          p.mt-4.text-center.mx-2 Es el elemento más importante, ya que complementa y se apoya en las imágenes para transmitir un mensaje claro, contundente y persuasivo.
+          h4.title-card.bg2.mx-2 Encabezado
+          p.mt-4.mx-2 Es el elemento más importante, ya que complementa y se apoya en las imágenes para transmitir un mensaje claro, contundente y persuasivo.
 
       .col-sm-12.col-lg-2.justify-content-center.mx-0.px-0
         .bg1.px-1.py-3.h-card.mb-cus
           .row.justify-content-center.align-items-center.my-4
             .col-lg-6.d-none.d-lg-block
               img(src='@/assets/curso/temas/tema1/img3.svg')
-          .title-card.bg2.mx-2 Cuerpo del texto
-          p.mt-4.text-center.mx-2 Texto compuesto por uno o varios párrafos; describe el producto, menciona las promesas secundarias y refuerza la comunicación iniciada con el titular o complementa la imagen.
+          h4.title-card.bg2.mx-2 Cuerpo del texto
+          p.mt-4.mx-2 Texto compuesto por uno o varios párrafos; describe el producto, menciona las promesas secundarias y refuerza la comunicación iniciada con el titular o complementa la imagen.
 
       .col-sm-12.col-lg-2.justify-content-center.mx-0.px-0
         .bg1.px-1.py-3.h-card.mb-cus
           .row.justify-content-center.align-items-center.my-4
             .col-lg-6.d-none.d-lg-block
               img(src='@/assets/curso/temas/tema1/img4.svg')
-          .title-card.bg2.mx-2 #[i Layout]
-          p.mt-4.text-center.mx-2 Estructura gráfica y compositiva del anuncio; define la ubicación de los elementos dentro del formato.
+          h4.title-card.bg2.mx-2 #[i Layout]
+          p.mt-4.mx-2 Estructura gráfica y compositiva del anuncio; define la ubicación de los elementos dentro del formato.
 
 
       .col-sm-12.col-lg-2.justify-content-center.mx-0.px-0
@@ -51,20 +51,20 @@
           .row.justify-content-center.align-items-center.my-4
             .col-lg-6.d-none.d-lg-block
               img(src='@/assets/curso/temas/tema1/img5.svg')
-          .title-card.bg2.mx-2 Pie de anuncio
-          p.mt-4.text-center.mx-2 Hace referencia al anunciante y a los diferentes puntos de contacto: sitios #[i web ], redes sociales, teléfonos, correo electrónico y ubicación del punto de venta. Es el elemento que permite el proceso de retroalimentación.
+          h4.title-card.bg2.mx-2 Pie de anuncio
+          p.mt-4.mx-2 Hace referencia al anunciante y a los diferentes puntos de contacto: sitios #[i web ], redes sociales, teléfonos, correo electrónico y ubicación del punto de venta. Es el elemento que permite el proceso de retroalimentación.
 
       .col-sm-12.col-lg-2.justify-content-center.mx-0.px-0
         .bg1.px-1.py-3.h-card.mb-cus
           .row.justify-content-center.align-items-center.my-4
             .col-lg-6.d-none.d-lg-block
               img(src='@/assets/curso/temas/tema1/img6.svg')
-          .title-card.bg2.mx-2 El mensaje
-          p.mt-4.text-center.mx-2 Es la razón de ser del anuncio y de la campaña; comunica los beneficios y promesas del producto o servicio y dice lo que el mercado quiere o necesita saber.  
+          h4.title-card.bg2.mx-2 El mensaje
+          p.mt-4.mx-2 Es la razón de ser del anuncio y de la campaña; comunica los beneficios y promesas del producto o servicio y dice lo que el mercado quiere o necesita saber.  
 
 
     p.mb-5(data-aos="zoom-in-left") El mensaje presenta una serie de características:
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in-left")
+    SlyderF.align-items-center.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in-left")
       .tarjeta.color-secundario-cus.p-4
         .row.justify-content-center.mb-3
           .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
@@ -148,13 +148,13 @@
     .bg2.px-5.px-sm-0.pt-4.pb-4.mb-5(data-aos="zoom-in-left")
       SlyderA(tipo="b")
         .py-3.bg6.px-5
-          .row.justify-content-center.align-content-start
-            .col-sm-12.col-lg-7.mb-0.mt-5
+          .row.justify-content-center.align-items-center
+            .col-sm-12.col-lg-7.mb-0
               span.bg14 Unificación: 
               | con el uso de un recurso preexistente se crea una asociación con el mensaje para darle un sentido específico, esta técnica se utiliza con más frecuencia en BTL y outdoors, como se presenta en la siguiente figura.
               
             .col-sm-12.col-lg-5
-              .titulo-sexto.color-secundario.mt-5
+              .titulo-sexto.color-secundario
                 h5 Figura 1.
                 span
                   |   Unificación
@@ -163,14 +163,14 @@
               figcaption Nota. Marca registrada McDonald's (s.f.).
         
         .py-3.bg6.px-5
-          .row.justify-content-center.align-content-start
-            .col-sm-12.col-lg-7.mb-0.mt-5
+          .row.justify-content-center.align-items-center
+            .col-sm-12.col-lg-7.mb-0
               span.bg14 Metáfora:
               | es utilizada en soluciones principalmente gráficas, aquí se busca un elemento que tenga cierta asociación al producto o servicio, y se une el producto con este símbolo; esta técnica es eficiente cuando el mensaje es demasiado abstracto para ponerlo en palabras, ya que la potencia comunicacional del símbolo no necesita explicaciones. En la figura 2 se presenta un ejemplo.
               
             .col-sm-12.col-lg-5
               
-              .titulo-sexto.color-secundario.mt-5
+              .titulo-sexto.color-secundario
                 h5 Figura 2.
                 span
                   |   Metáfora
@@ -179,14 +179,14 @@
               figcaption Nota. Marca registrada Mentos (s.f.).
               
         .py-3.bg6.px-5
-          .row.justify-content-center.align-content-start
-            .col-sm-12.col-lg-7.mb-0.mt-5
+          .row.justify-content-center.align-items-center
+            .col-sm-12.col-lg-7.mb-0
               span.bg14 Inversión:
               | en lugar de decirle al espectador lo bueno que es tener el producto, aquí se presenta la consecuencia extrema de no tener o no usar el producto, tal como se ilustra en la siguiente figura.
               
             .col-sm-12.col-lg-5
               
-              .titulo-sexto.color-secundario.mt-5
+              .titulo-sexto.color-secundario
                 h5 Figura 3.
                 span
                   |   Inversión
@@ -196,14 +196,14 @@
               figcaption Nota. Marca registrada NutriPro NutriBalance (s.f.).
 
         .py-3.bg6.px-5
-          .row.justify-content-center.align-content-start
-            .col-sm-12.col-lg-7.mb-0.mt-5
+          .row.justify-content-center.align-items-center
+            .col-sm-12.col-lg-7.mb-0
               span.bg14 Esfuerzos extremos:
               | realizar la comunicación mostrando la ejecución de un esfuerzo exagerado o absurdo del consumidor por conseguir el producto o de la empresa por hacer llegar ese producto al consumidor. Esta técnica es efectiva cuando no existe un diferenciador para el producto y no explica el valor o beneficio del producto, por ello la marca debe estar identificada. Puede encontrar un ejemplo en la figura que aparece a continuación.
               
             .col-sm-12.col-lg-5
               
-              .titulo-sexto.color-secundario.mt-5
+              .titulo-sexto.color-secundario
                 h5 Figura 4.
                 span
                   |   Esfuerzos extremos
@@ -213,14 +213,14 @@
               figcaption Nota. Marca registrada Pepsi (s.f.).
 
         .py-3.bg6.px-5
-          .row.justify-content-center.align-content-start
-            .col-sm-12.col-lg-7.mb-0.mt-5
+          .row.justify-content-center.align-items-center
+            .col-sm-12.col-lg-7.mb-0
               span.bg14 Consecuencia extrema: 
               | en esta técnica la comunicación no se enfoca en la promesa, sino en la exageración de la consecuencia del producto, sea buena o mala, como se ilustra en la siguiente figura.
               
             .col-sm-12.col-lg-5
               
-              .titulo-sexto.color-secundario.mt-5
+              .titulo-sexto.color-secundario
                 h5 Figura 5.
                 span
                   |   Consecuencia extrema
@@ -230,14 +230,14 @@
               figcaption Nota. Marca registrada Duracell (s.f.).
 
         .py-3.bg6.px-5
-          .row.justify-content-center.align-content-start
-            .col-sm-12.col-lg-7.mb-0.mt-5
+          .row.justify-content-center.align-items-center
+            .col-sm-12.col-lg-7.mb-0
               span.bg14 Activación: 
               | el espectador no se limita solamente a leer o escuchar el mensaje, en esta técnica se invita a generar una acción con el medio que lo transporta, con el fin de generar mayor impacto y recordación, tal cual se presenta en la siguiente figura.
               
             .col-sm-12.col-lg-5
               
-              .titulo-sexto.color-secundario.mt-5
+              .titulo-sexto.color-secundario
                 h5 Figura 6.
                 span
                   |   Activación
@@ -247,14 +247,14 @@
               figcaption Nota. Agencia JWT (2007).
 
         .py-3.bg6.px-5
-          .row.justify-content-center.align-content-start
-            .col-sm-12.col-lg-7.mb-0.mt-5
+          .row.justify-content-center.align-items-center
+            .col-sm-12.col-lg-7.mb-0
               span.bg14 Comportamiento extremo: 
               | se exagera el comportamiento de una persona que busca la característica que se quiere comunicar, así comunica un atributo del producto y se utiliza cuando el atributo no es característico del producto frente a la categoría. En la siguiente figura se puede encontrar un ejemplo.
               
             .col-sm-12.col-lg-5
               
-              .titulo-sexto.color-secundario.mt-5
+              .titulo-sexto.color-secundario
                 h5 Figura 7.
                 span
                   |    Comportamiento extremo
@@ -262,14 +262,14 @@
                 img(src='@/assets/curso/temas/tema1/img24.png', alt='En la figura se presenta la fotografía de una niña dormida sobre una rebanada de pan  en la mesa del desayuno. ')
               figcaption Nota. Marca registrada Harry’s Bread (s.f.).
         .py-3.bg6.px-5
-          .row.justify-content-center.align-content-start
-            .col-sm-12.col-lg-7.mb-0.mt-5
+          .row.justify-content-center.align-items-center
+            .col-sm-12.col-lg-7.mb-0
               span.bg14 Alternativa absurda: 
               | con esta técnica se busca dar solución a un problema, así el usuario al encontrar esto, podrá entender que el producto es la mejor alternativa para solucionarlo, como se presenta en la siguiente figura.
               
             .col-sm-12.col-lg-5
               
-              .titulo-sexto.color-secundario.mt-5
+              .titulo-sexto.color-secundario
                 h5 Figura 8.
                 span
                   | Alternativa absurda
