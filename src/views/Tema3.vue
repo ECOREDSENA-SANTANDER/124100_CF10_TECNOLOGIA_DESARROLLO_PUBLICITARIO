@@ -78,7 +78,7 @@
                 span
                   | Ley del resalte y la subordinación   
               figure
-                img(src='@/assets/curso/temas/tema3/img5.png', alt='En la imagen se presentan dos figuras:  En la primera dos cigarrillos encendidos en posición verticas simulando chimeneas y la leyenda  “No more killing”.  En la segunda un sacacorchos  con los brazos levantados simulando una persona que mira hacía una bahía  parado sobre una montaña de cajas y latas de la marca Heineken.')
+                img(src='@/assets/curso/temas/tema3/img5.png', alt='En la imagen se presentan un sacacorchos  con los brazos levantados simulando una persona que mira hacía una bahía  parado sobre una montaña de cajas y latas de la marca Heineken.')
               figcaption Nota. Artista Michael Miller Yu y el diseñador gráfico Eric Chan (2002).
 
         .py-3.bg6.px-5

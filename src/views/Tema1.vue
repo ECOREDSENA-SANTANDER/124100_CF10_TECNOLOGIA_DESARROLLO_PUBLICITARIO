@@ -166,7 +166,7 @@
           .row.justify-content-center.align-items-center
             .col-sm-12.col-lg-7.mb-0
               span.bg14 Metáfora:
-              | es utilizada en soluciones principalmente gráficas, aquí se busca un elemento que tenga cierta asociación al producto o servicio, y se une el producto con este símbolo; esta técnica es eficiente cuando el mensaje es demasiado abstracto para ponerlo en palabras, ya que la potencia comunicacional del símbolo no necesita explicaciones. En la figura 2 se presenta un ejemplo.
+              | utilizada en soluciones principalmente gráficas, aquí se busca un elemento que tenga cierta asociación al producto o servicio, y se une el producto con este símbolo; esta técnica es eficiente cuando el mensaje es demasiado abstracto para ponerlo en palabras, ya que la potencia comunicacional del símbolo no necesita explicaciones. En la figura 2 se presenta un ejemplo.
               
             .col-sm-12.col-lg-5
               

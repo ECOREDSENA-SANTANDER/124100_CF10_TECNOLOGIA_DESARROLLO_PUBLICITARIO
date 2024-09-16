@@ -319,12 +319,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -334,39 +334,39 @@ export default {
       autores: [
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor Metodológico y Pedagógico',
+          cargo: 'Asesor metodológico y pedagógico',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Manuel Augusto Arias López',
-          cargo: 'Instructor - Experto Temático',
+          cargo: 'Instructor - experto temático',
           centro: 'Regional Quindío - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Diseñador Instruccional',
+          cargo: 'Diseñador instruccional',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Vilma Perilla Méndez',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
         },
         {
           nombre: 'Andrea Velásquez Torres',
-          cargo: 'Apoyo Experto Temático',
+          cargo: 'Apoyo experto temático',
           centro: 'Regional Quindío - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Julia Isabel Roberto',
-          cargo: 'Diseñadora y Evaluadora Instruccional',
+          cargo: 'Diseñadora y evaluadora instruccional',
           centro:
             'Regional Distrito Capitalo - Centro para la Industria de la Comunicación Gráfica',
         },
         {
           nombre: 'Carolina Jiménez Suescun',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -376,17 +376,17 @@ export default {
       autores: [
         {
           nombre: 'Yuly Andrea Rey Quiñonez',
-          cargo: 'Diseñadora de Contenidos Digitales',
+          cargo: 'Diseñadora de contenidos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
-          cargo: 'Desarrolladora <i>Full-Stack</i>',
+          cargo: 'Desarrolladora <i>full-stack</i>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Maria Alejandra Vera Briceño',
-          cargo: 'Animadora y Productora Multimedia',
+          cargo: 'Animadora y productora multimedia',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -396,12 +396,12 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validadora de Recursos Educativos Digitales',
+          cargo: 'Validadora de recursos educativos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Erika Fernanda Mejía Pinzón',
-          cargo: 'Evaluadora para Contenidos Inclusivos y Accesibles',
+          nombre: '--',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],

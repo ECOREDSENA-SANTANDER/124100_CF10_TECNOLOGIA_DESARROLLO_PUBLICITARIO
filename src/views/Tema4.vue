@@ -107,8 +107,8 @@
         .col-sm-12.col-lg-12
             figure.mb-5
               .video
-                iframe(width="560" height="315" src="https://www.youtube.com/embed/iUqz6wVm-Es" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-              figcaption Video: Leyenda del video
+                iframe(width="560" height="315" src="https://www.youtube.com/embed/AUstikTuuRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              figcaption Video. Construcción de la pieza gráfica
 
 
 </template>

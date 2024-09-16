@@ -12,8 +12,8 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Caracteríticas de las materias primas y los insumos
-        p.mb-4 Validar los conocimientos y conceptos aprendidos en el proceso con el fin de conocer los diferentes tipos de materias primas e insumos.
+          h2 Diseño de piezas gráficas
+        p.mb-4 Validar los conocimientos y conceptos aprendidos en el proceso con el fin de conocer los diferentes tipos de diseño de piezas gráficas.
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
