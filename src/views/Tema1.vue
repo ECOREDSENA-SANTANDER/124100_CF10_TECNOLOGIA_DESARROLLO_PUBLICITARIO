@@ -52,7 +52,7 @@
             .col-lg-6.d-none.d-lg-block
               img(src='@/assets/curso/temas/tema1/img5.svg')
           h4.title-card.bg2.mx-2 Pie de anuncio
-          p.mt-4.mx-2 Hace referencia al anunciante y a los diferentes puntos de contacto: sitios #[i web ], redes sociales, teléfonos, correo electrónico y ubicación del punto de venta. Es el elemento que permite el proceso de retroalimentación.
+          p.mt-4.mx-2 Hace referencia al anunciante y a los diferentes puntos de contacto: sitios web, redes sociales, teléfonos, correo electrónico y ubicación del punto de venta. Es el elemento que permite el proceso de retroalimentación.
 
       .col-sm-12.col-lg-2.justify-content-center.mx-0.px-0
         .bg1.px-1.py-3.h-card.mb-cus
@@ -124,7 +124,7 @@
           img(src='@/assets/curso/temas/tema1/img15.svg')
           .tarjeta.color-secundario-cus-2.w-100
             .p-4.text-center
-              p.mb-0 #[strong Fática:] direcciones, teléfonos, sitios #[i web ], redes sociales o ubicación de la empresa.
+              p.mb-0 #[strong Fática:] direcciones, teléfonos, sitios web, redes sociales o ubicación de la empresa.
 
 
 
@@ -149,11 +149,11 @@
       SlyderA(tipo="b")
         .py-3.bg6.px-5
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-lg-7.mb-0
+            .col-sm-12.col-lg-8.mb-0
               span.bg14 Unificación: 
-              | con el uso de un recurso preexistente se crea una asociación con el mensaje para darle un sentido específico, esta técnica se utiliza con más frecuencia en BTL y outdoors, como se presenta en la siguiente figura.
+              | con el uso de un recurso preexistente se crea una asociación con el mensaje para darle un sentido específico, esta técnica se utiliza con más frecuencia en BTL y #[i outdoors], como se presenta en la siguiente figura.
               
-            .col-sm-12.col-lg-5
+            .col-sm-12.col-lg-3
               .titulo-sexto.color-secundario
                 h5 Figura 1.
                 span
@@ -164,11 +164,11 @@
         
         .py-3.bg6.px-5
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-lg-7.mb-0
+            .col-sm-12.col-lg-8.mb-0
               span.bg14 Metáfora:
               | utilizada en soluciones principalmente gráficas, aquí se busca un elemento que tenga cierta asociación al producto o servicio, y se une el producto con este símbolo; esta técnica es eficiente cuando el mensaje es demasiado abstracto para ponerlo en palabras, ya que la potencia comunicacional del símbolo no necesita explicaciones. En la figura 2 se presenta un ejemplo.
               
-            .col-sm-12.col-lg-5
+            .col-sm-12.col-lg-3
               
               .titulo-sexto.color-secundario
                 h5 Figura 2.
@@ -180,11 +180,11 @@
               
         .py-3.bg6.px-5
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-lg-7.mb-0
+            .col-sm-12.col-lg-8.mb-0
               span.bg14 Inversión:
               | en lugar de decirle al espectador lo bueno que es tener el producto, aquí se presenta la consecuencia extrema de no tener o no usar el producto, tal como se ilustra en la siguiente figura.
               
-            .col-sm-12.col-lg-5
+            .col-sm-12.col-lg-3
               
               .titulo-sexto.color-secundario
                 h5 Figura 3.
@@ -197,11 +197,11 @@
 
         .py-3.bg6.px-5
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-lg-7.mb-0
+            .col-sm-12.col-lg-8.mb-0
               span.bg14 Esfuerzos extremos:
               | realizar la comunicación mostrando la ejecución de un esfuerzo exagerado o absurdo del consumidor por conseguir el producto o de la empresa por hacer llegar ese producto al consumidor. Esta técnica es efectiva cuando no existe un diferenciador para el producto y no explica el valor o beneficio del producto, por ello la marca debe estar identificada. Puede encontrar un ejemplo en la figura que aparece a continuación.
               
-            .col-sm-12.col-lg-5
+            .col-sm-12.col-lg-3
               
               .titulo-sexto.color-secundario
                 h5 Figura 4.
@@ -214,11 +214,11 @@
 
         .py-3.bg6.px-5
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-lg-7.mb-0
+            .col-sm-12.col-lg-8.mb-0
               span.bg14 Consecuencia extrema: 
               | en esta técnica la comunicación no se enfoca en la promesa, sino en la exageración de la consecuencia del producto, sea buena o mala, como se ilustra en la siguiente figura.
               
-            .col-sm-12.col-lg-5
+            .col-sm-12.col-lg-3
               
               .titulo-sexto.color-secundario
                 h5 Figura 5.
@@ -231,11 +231,11 @@
 
         .py-3.bg6.px-5
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-lg-7.mb-0
+            .col-sm-12.col-lg-8.mb-0
               span.bg14 Activación: 
               | el espectador no se limita solamente a leer o escuchar el mensaje, en esta técnica se invita a generar una acción con el medio que lo transporta, con el fin de generar mayor impacto y recordación, tal cual se presenta en la siguiente figura.
               
-            .col-sm-12.col-lg-5
+            .col-sm-12.col-lg-3
               
               .titulo-sexto.color-secundario
                 h5 Figura 6.
@@ -248,11 +248,11 @@
 
         .py-3.bg6.px-5
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-lg-7.mb-0
+            .col-sm-12.col-lg-8.mb-0
               span.bg14 Comportamiento extremo: 
               | se exagera el comportamiento de una persona que busca la característica que se quiere comunicar, así comunica un atributo del producto y se utiliza cuando el atributo no es característico del producto frente a la categoría. En la siguiente figura se puede encontrar un ejemplo.
               
-            .col-sm-12.col-lg-5
+            .col-sm-12.col-lg-3
               
               .titulo-sexto.color-secundario
                 h5 Figura 7.
@@ -263,11 +263,11 @@
               figcaption Nota. Marca registrada Harry’s Bread (s.f.).
         .py-3.bg6.px-5
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-lg-7.mb-0
+            .col-sm-12.col-lg-8.mb-0
               span.bg14 Alternativa absurda: 
               | con esta técnica se busca dar solución a un problema, así el usuario al encontrar esto, podrá entender que el producto es la mejor alternativa para solucionarlo, como se presenta en la siguiente figura.
               
-            .col-sm-12.col-lg-5
+            .col-sm-12.col-lg-3
               
               .titulo-sexto.color-secundario
                 h5 Figura 8.

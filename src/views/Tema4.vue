@@ -37,7 +37,7 @@
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
         p #[b Más adelante se presentará cómo queda esta pieza gráfica digitalizada.]
-        p El creativo publicitario ve las cosas desde el punto de vista de las personas y desde la perspectiva del negocio, y al desarrollar una pieza gráfica su objetivo no es ganar premios, sino vender productos por medio del mensaje, por ello es un trabajo anónimo. A partir de lo anterior, el portal #[i web ] #[i Marketing ] capacitación (2017) aconseja lo siguiente:
+        p El creativo publicitario ve las cosas desde el punto de vista de las personas y desde la perspectiva del negocio, y al desarrollar una pieza gráfica su objetivo no es ganar premios, sino vender productos por medio del mensaje, por ello es un trabajo anónimo. A partir de lo anterior, el portal web #[i Marketing ] capacitación (2017) aconseja lo siguiente:
         .bloque-texto-cus.color-secundario.p-4
           .bloque-texto-cus__texto
             .row.justify-content-center.mb-3

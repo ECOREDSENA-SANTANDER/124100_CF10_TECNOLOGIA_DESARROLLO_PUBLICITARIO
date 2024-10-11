@@ -47,8 +47,8 @@
           span
             |   Círculo cromático
         figure
-          img(src='@/assets/curso/temas/tema2/img2.png', alt='En la imagen se presenta un circulo cromático en el que se señalan los colores primarios y secundarios.')
-        figcaption Nota. Desarrollo #[i web ] (2004).
+          img(src='@/assets/curso/temas/tema2/img2.svg', alt='En la imagen se presenta un circulo cromático en el que se señalan los colores primarios y secundarios.')
+        figcaption Nota. Desarrollo web (2004).
 
 
 
@@ -78,8 +78,8 @@
           span
             | Escalas de color
         figure
-          img(src='@/assets/curso/temas/tema2/img3.png', alt='En la imagen se presentan varias figuras con las diferentes escalas de color que son monocromáticos, análogos, complementarios y triada.')
-        figcaption Nota. Desarrollo #[i web ] (2004).
+          img(src='@/assets/curso/temas/tema2/img3.svg', alt='En la imagen se presentan varias figuras con las diferentes escalas de color que son monocromáticos, análogos, complementarios y triada.')
+        figcaption Nota. Desarrollo web (2004).
 
 
     .row.justify-content-center.my-5(data-aos="zoom-in-left")
@@ -93,8 +93,8 @@
           span
             | Temperaturas de color
         figure
-          img(src='@/assets/curso/temas/tema2/img4.png', alt='En la imagen se presentan dos semicírculos que indican las temperatus de color  que son colores frios y colores calientes.')
-        figcaption Nota. Desarrollo #[i web ] (2004).
+          img(src='@/assets/curso/temas/tema2/img4.svg', alt='En la imagen se presentan dos semicírculos que indican las temperatus de color  que son colores frios y colores calientes.')
+        figcaption Nota. Desarrollo web (2004).
 
 
 
@@ -103,7 +103,7 @@
         .d-flex.align-items-center.mt-4
             img.w-card-icon(src="@/assets/template/icon-card.svg")
             h3.bg13.py-2.w-card-text Propiedades de los colores
-    p.mb-5(data-aos="zoom-in-left") A continuación, se describen las propiedades que hacen parte de los colores, tomando como referencia lo que se indica en la página de internet denominada Desarrollo #[i web ] (2004):
+    p.mb-5(data-aos="zoom-in-left") A continuación, se describen las propiedades que hacen parte de los colores, tomando como referencia lo que se indica en la página de internet denominada Desarrollo web (2004):
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul-cus")(data-aos="zoom-in-left")
       .row(titulo="Matiz")
         .col-sm-12.col-lg-8
@@ -116,7 +116,7 @@
               | Matices en el círculo cromático
           figure
             img(src='@/assets/curso/temas/tema2/img5.png', alt='La imagen presenta el círculo cromático con los diferentes matices de color.')
-          figcaption Nota. Desarrollo #[i web ] (2004).
+          figcaption Nota. Desarrollo web (2004).
         
 
       .row(titulo="Saturación")
@@ -132,8 +132,8 @@
               span
                 | Saturación
             figure
-              img(src='@/assets/curso/temas/tema2/img6.png', alt='La imagen presenta el círculo cromático con tres juegos de flechas que indican la saturación del color así:  Muy saturados, poco saturados y puros.')
-            figcaption Nota. Desarrollo #[i web ] (2004).
+              img(src='@/assets/curso/temas/tema2/img6.svg', alt='La imagen presenta el círculo cromático con tres juegos de flechas que indican la saturación del color así:  Muy saturados, poco saturados y puros.')
+            figcaption Nota. Desarrollo web (2004).
         .row.justify-content-center.mb-5
             .col-lg-12
               p.my-5.pl-cus Para desaturar un color sin que varíe su valor, hay que mezclarlo con un gris de blanco y negro de su mismo valor. Un color intenso como el azul perderá su saturación a medida que se le añade blanco y se convierte en celeste, tal como se presenta en la siguiente figura.
@@ -143,9 +143,9 @@
                   span
                     | Saturación del color rojo 
               figure.pl-cus
-                img(src='@/assets/curso/temas/tema2/img7.png', alt='La imagen presenta cinco rectángulos  con los diferentes niveles de saturación del color rojo.')
+                img(src='@/assets/curso/temas/tema2/img7.svg', alt='La imagen presenta cinco rectángulos  con los diferentes niveles de saturación del color rojo.')
               .pl-cus
-                figcaption Nota. Desarrollo #[i web ] (2004).
+                figcaption Nota. Desarrollo web (2004).
       
       .row(titulo="Valor o brillo")
         .col-sm-12.col-lg-12
@@ -161,8 +161,8 @@
                 span
                   | Brillos del color rojo
               figure
-                img(src='@/assets/curso/temas/tema2/img8.png', alt='La imagen presenta cinco rectángulos con los diferentes niveles de brillo del color rojo.')
-              figcaption Nota. Desarrollo #[i web ] (2004).
+                img(src='@/assets/curso/temas/tema2/img8.svg', alt='La imagen presenta cinco rectángulos con los diferentes niveles de brillo del color rojo.')
+              figcaption Nota. Desarrollo web (2004).
 
 
     
@@ -170,7 +170,7 @@
     Separador
     #t_2_3.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2 2.3 Teoría del color de Eva Heller
-    p.mb-3 A continuación, se describe la teoría del color creada por la autora Eva Heller, que se explica en la página #[i web ] Viviendo la salud (2020):
+    p.mb-3 A continuación, se describe la teoría del color creada por la autora Eva Heller, que se explica en la página web Viviendo la salud (2020):
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema2/img9.png', alt='Marketing')
@@ -185,7 +185,7 @@
     #t_2_4.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2 2.4 Significado de los colores
     
-    p.mb-5(data-aos="zoom-in-left") Asimismo, para este tema se aborda lo socializado en dicho portal #[i web ] sobre esta teoría, donde se establecen algunos significados de los colores:
+    p.mb-5(data-aos="zoom-in-left") Asimismo, para este tema se aborda lo socializado en dicho portal web sobre esta teoría, donde se establecen algunos significados de los colores:
     SlyderF.align-items-center.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in-left")
       .tarjeta.color-secundario-cus.p-4
         h4.title-card-2.bg8.mb-3 Amarillo

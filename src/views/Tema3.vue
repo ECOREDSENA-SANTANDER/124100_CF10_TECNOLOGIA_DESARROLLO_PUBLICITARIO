@@ -17,7 +17,7 @@
     Separador
     #t_3_1.titulo-segundo.color-secundario(data-aos="zoom-in-left") 
       h2 3.1 Leyes de la composición
-    p.mb-5(data-aos="zoom-in-left") Las siguientes leyes son tomadas del portal #[i web ] del autor Pato Giacomino (2014):
+    p.mb-5(data-aos="zoom-in-left") Las siguientes leyes son tomadas del portal web del autor Pato Giacomino (2014):
 
 
     .bg2.px-5.px-sm-0.pt-4.pb-4.mb-5(data-aos="zoom-in-left")
@@ -63,8 +63,8 @@
                 span
                   | Ley de la variedad y el interés  
               figure
-                img(src='@/assets/curso/temas/tema3/img4.png', alt='La imagen presenta varias guitarras eléctricas, una de las cuales se traslapa con el cuerpo de una mujer.  En medio de la figura está la marca Gibson.')
-              figcaption Marca registrada Gibson Brands (s.f.).
+                img(src='@/assets/curso/temas/tema3/img4.png', alt='La imagen presenta un guitarra Gibson de color blanco con una forma peculiar, al lado se encuentra una mujer de pie, con las piernas ligeramente abiertas simulando la forma de la guitarra.')
+              figcaption Nota. Marca registrada Gibson Brands (s.f.).
 
         .py-3.bg6.px-5
           .row.justify-content-center.align-content-start
@@ -118,7 +118,7 @@
                 span
                   | Punto focal
               figure
-                img(src='@/assets/curso/temas/tema3/img7.png', alt='La imagen presenta fotografia de una mujer  luciendo un blazer  que se resalta con un círculo amarillo.')
+                img(src='@/assets/curso/temas/tema3/img7.png', alt='La imagen presenta fotografía de una mujer  luciendo un blazer  que se resalta con un círculo amarillo.')
               figcaption Nota. Matthew Metz (s.f.).
             .col-sm-12.col-lg-6
               p.mb-0.mt-5.mb-cus Del mismo modo, la siguiente figura, ejemplo de diseño de un póster por Shauna Lynn Panczyszyn, pone el enfoque en la fotografía del hombre. Orienta el enfoque de esta imagen al colocarlo en el centro, enmarcándolo con los gráficos y usando gráficos garabateados para guiar el ojo hacia la fotografía.
@@ -219,7 +219,7 @@
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-8
               .h4 Usar elementos que se complementen entre sí
-              p.mb-4 #[b Elegir fotos que se hayan tomado de forma similar] e intentar elegir fotos que tengan estéticas y estilos similares, por ejemplo, si una imagen es minimalista, elegir otras que estén inspiradas en lo minimalista para complementarla. Se puede evidenciar este ejemplo de diseño de sitio #[i web ] por el autor Feint, quien ha elegido imágenes que tienen cierta tosquedad con mucha textura, vetas de madera y tonos fríos, tal como se presenta en la siguiente figura.
+              p.mb-4 #[b Elegir fotos que se hayan tomado de forma similar] e intentar elegir fotos que tengan estéticas y estilos similares, por ejemplo, si una imagen es minimalista, elegir otras que estén inspiradas en lo minimalista para complementarla. Se puede evidenciar este ejemplo de diseño de sitio web por el autor Feint, quien ha elegido imágenes que tienen cierta tosquedad con mucha textura, vetas de madera y tonos fríos, tal como se presenta en la siguiente figura.
               
             .col-sm-12.col-lg-4
               .titulo-sexto.color-secundario
@@ -297,7 +297,7 @@
             .col-sm-12.col-lg-8
               .h4 Dejar espacios en blanco
               p.mb-4 #[b No tiene por qué llenar todo el espacio con contenido.] Como se acaba de mencionar, el espacio en blanco no es espacio vacío, está haciendo su trabajo y sirviendo su propósito, así que no se debe sentir la necesidad de llenar cualquier espacio que se tenga con más contenido.
-              p.mb-4 Por ejemplo, se puede evidenciar este diseño de sitio #[i web ] creado por Creative Web Themes, en el que se usa una imagen para representar el producto, un título en negrita, dos pequeñas líneas de texto y luego un enlace para obtener más información. Gracias a este simple formato y a la forma en que no todo el espacio ha sido llenado con contenido hay mucho lugar para que el espacio en blanco haga lo suyo y, deje que cada elemento respire perfecta y efectivamente, tal como se presenta en la siguiente figura.
+              p.mb-4 Por ejemplo, se puede evidenciar este diseño de sitio web creado por Creative Web Themes, en el que se usa una imagen para representar el producto, un título en negrita, dos pequeñas líneas de texto y luego un enlace para obtener más información. Gracias a este simple formato y a la forma en que no todo el espacio ha sido llenado con contenido hay mucho lugar para que el espacio en blanco haga lo suyo y, deje que cada elemento respire perfecta y efectivamente, tal como se presenta en la siguiente figura.
               
             .col-sm-12.col-lg-4
               .titulo-sexto.color-secundario
@@ -314,7 +314,7 @@
         .col-sm-12.col-md-11.col-lg-11.px-sm-cus
           .h4 Dividir espacio en tercios
           p.mb-4 Usar la regla de los tercios es una estupenda manera de empezar la composición del diseño, ya que proporciona una guía rápida para posicionar y enmarcar los elementos.
-          p.mb-4 Lo anterior, se puede evidenciar en este diseño de sitio #[i web ] creado por Gajan Vamatheva para National Geographic, luego tómese un momento para imaginarse dónde se interceptarían las líneas de la regla de los tercios. Quizás se note que estas lo hacen encima de los puntos focales de cada imagen –los excursionistas en la primera imagen, el ave más grande en la segunda–. Las líneas se interceptarían en puntos alrededor de los cuadros de texto, dirigiendo el ojo hacia estos puntos, como se presenta en la siguiente figura.
+          p.mb-4 Lo anterior, se puede evidenciar en este diseño de sitio web creado por Gajan Vamatheva para National Geographic, luego tómese un momento para imaginarse dónde se interceptarían las líneas de la regla de los tercios. Quizás se note que estas lo hacen encima de los puntos focales de cada imagen –los excursionistas en la primera imagen, el ave más grande en la segunda–. Las líneas se interceptarían en puntos alrededor de los cuadros de texto, dirigiendo el ojo hacia estos puntos, como se presenta en la siguiente figura.
           a.boton.color-acento-botones.indicador__container.mb-5(@click="modal1 = true")
             p.fw-bold.mb-0 Consultar figura 33
             .indicador--click(v-if="mostrarIndicador")
@@ -325,7 +325,7 @@
     Separador
     #t_3_2.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2 3.2 La sección áurea
-    p.mb-5(data-aos="zoom-in-left") De acuerdo con Rodríguez (2020) del portal #[i web ] #[i Market In House]:
+    p.mb-5(data-aos="zoom-in-left") De acuerdo con Rodríguez (2020) del portal web #[i Market In House]:
     .bg10.py-4.mb-5(data-aos="zoom-in-left")
       .bgimg1.p-5.mx-5
         .row 
@@ -455,7 +455,7 @@
                 .row
                   .col-sm-12.col-lg-5
                     figure
-                      img(src='@/assets/curso/temas/tema3/img29.png', alt='La figura presenta la silueta de una botella de cocacola formada por un cuchillo y un tenedor.')
+                      img(src='@/assets/curso/temas/tema3/img29.svg', alt='La figura presenta la silueta de una botella de cocacola formada por un cuchillo y un tenedor.')
                     figcaption Nota. Marca registrada Coca-Cola (s.f.).
 
           .row(titulo="Mondrian o reticular")
@@ -469,7 +469,7 @@
                 .row
                   .col-sm-12.col-lg-5
                     figure
-                      img(src='@/assets/curso/temas/tema3/img30.png', alt='La figura presenta una botella de cerveza acostada sobre un fondo totalmente verde, a lado y lado de la botella y de manera simétrica se presentan dos vasos llenos de cerveza vistos desde arriba.')
+                      img(src='@/assets/curso/temas/tema3/img30.svg', alt='La figura presenta una botella de cerveza acostada sobre un fondo totalmente verde, a lado y lado de la botella y de manera simétrica se presentan dos vasos llenos de cerveza vistos desde arriba.')
                     figcaption Nota. Marca registrada Heineken (s.f.).
 
           .row(titulo="Tipográfico")
@@ -483,7 +483,7 @@
                 .row
                   .col-sm-12.col-lg-5
                     figure
-                      img(src='@/assets/curso/temas/tema3/img31.png', alt='La figura presenta un recuadro rojo donde se escribe: pa pa pa papa, en la esquina inferior izquierdo se presenta de manera muy pequeña el logo de la marca.')
+                      img(src='@/assets/curso/temas/tema3/img31.svg', alt='La figura presenta un recuadro rojo donde se escribe: pa pa pa papa, en la esquina inferior izquierdo se presenta de manera muy pequeña el logo de la marca.')
                     figcaption Nota. Marca registrada McDonald's (s.f.).
       .col-sm-12.col-lg-4.d-none.d-lg-block
               img(src='@/assets/curso/temas/tema3/img26.svg', alt='')
@@ -491,7 +491,7 @@
     Separador
     #t_3_4.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2 3.4 Tipografías
-    p.mb-5(data-aos="zoom-in-left") De acuerdo con lo indicado por Morales (2016) en su portal #[i web ]:      
+    p.mb-5(data-aos="zoom-in-left") De acuerdo con lo indicado por Morales (2016) en su portal web:      
     .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img.img-inv(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img51.png')})`}"
@@ -517,7 +517,7 @@
           h5 Figura 44.
           span
             | Tipografías
-        img(src='@/assets/curso/temas/tema3/img52.png', alt='La figura presenta un comparativo entre la tipografía serif y sin serif. Adicionalmente resalta que la serif es elegante, tradicional, glamurosa y clásica;  y la sin serif es moderna, limpia, racional y versátil.')
+        img(src='@/assets/curso/temas/tema3/img52.svg', alt='La figura presenta un comparativo entre la tipografía serif y sin serif. Adicionalmente resalta que la serif es elegante, tradicional, glamurosa y clásica;  y la sin serif es moderna, limpia, racional y versátil.')
     .row.justify-content-center.mb-5
       .col-sm-12.col-md-6.col-lg-4.mb-cus-4         
         .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
@@ -547,7 +547,7 @@
               h4 Manuscrita
               p.mb-0 Depende del contexto en que se use puede expresar diversión o modernidad; sin embargo, no son muy legibles en textos largos, por lo que hay que tener cuidado con su uso. 
     
-    p.mb-5(data-aos="zoom-in-left") Ahora bien, para complementar lo indicado por Morales (2016), el portal #[i web ] #[i Goodwill Community Foundation] (2020) manifiesta los elementos a tener en cuenta en la tipografía como la jerarquía, el interlineado, el espaciado y el interletraje, los cuales se explican a continuación.                           
+    p.mb-5(data-aos="zoom-in-left") Ahora bien, para complementar lo indicado por Morales (2016), el portal web #[i Goodwill Community Foundation] (2020) manifiesta los elementos a tener en cuenta en la tipografía como la jerarquía, el interlineado, el espaciado y el interletraje, los cuales se explican a continuación.                           
     TabsA.color-acento-botones.mb-5
       .tarjeta.bg12.p-5(titulo="La jerarquía")
         .row.justify-content-center
