@@ -175,7 +175,7 @@
                 span
                   |   Metáfora
               figure
-                img(src='@/assets/curso/temas/tema1/img19.png', alt='La imagen representa una lámpara de alumbrado público en una calle de una ciudad. En la parte alta de la lámpara se presenta una jarra de la cual se vierte un líquido  que simula el poste de la lámpara y termina su recorrido en la figura de un vaso con el logotipo de la marca McDonalds.')
+                img(src='@/assets/curso/temas/tema1/img19.png', alt='La figura presenta sobre un fondo azul una esfera blanca sobre un barquillo de helado. En el extremo superior izquierdo la marca Mentos.')
               figcaption Nota. Marca registrada Mentos (s.f.).
               
         .py-3.bg6.px-5

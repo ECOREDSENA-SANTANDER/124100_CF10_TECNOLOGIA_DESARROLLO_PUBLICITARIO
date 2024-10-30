@@ -93,7 +93,7 @@
           span
             | Temperaturas de color
         figure
-          img(src='@/assets/curso/temas/tema2/img4.svg', alt='En la imagen se presentan dos semicírculos que indican las temperatus de color  que son colores frios y colores calientes.')
+          img(src='@/assets/curso/temas/tema2/img4.svg', alt='En la imagen se presentan dos semicírculos que indican las temperaturass de color que son colores frios y colores calientes.')
         figcaption Nota. Desarrollo web (2004).
 
 
@@ -123,9 +123,9 @@
         .row
           .col-sm-12.col-lg-8
             p.mb-3.pl-cus También llamada croma, este concepto representa la pureza o intensidad de un color particular, la viveza o palidez del mismo, y puede relacionarse con el ancho de banda de la luz que [se está] visualizando. Los colores puros del espectro están completamente saturados. Un color intenso es muy vivo. Cuanto más se satura un color, mayor es la impresión de que el objeto se está moviendo, como se presenta en la siguiente figura.
-            p.mb-5.pl-cus  #[b También puede ser definida por la cantidad de gris que contiene un color:] mientras más gris o más neutro es, menos brillante o menos saturado es. Igualmente, cualquier cambio hecho a un color puro automáticamente baja su saturación.
+            p.mb-5.pl-cus  También puede ser definida por la cantidad de gris que contiene un color: mientras más gris o más neutro es, menos brillante o menos saturado es. Igualmente, cualquier cambio hecho a un color puro automáticamente baja su saturación.
             .pl-cus.mb-cus 
-              .bg6.px-4.py-2 #[b Por ejemplo], [si se dice que] un rojo [es] muy saturado es [porque se refiere] a un rojo puro y rico. Pero cuando [se hace referencia] a los tonos de un color que tiene algún valor de gris los [llaman] menos saturados. La saturación del color se dice que es más baja cuando se le añade su opuesto (llamado complementario) en el círculo cromático. 
+              .bg6.px-4.py-2  Por ejemplo, [si se dice que] un rojo [es] muy saturado es [porque se refiere] a un rojo puro y rico. Pero cuando [se hace referencia] a los tonos de un color que tiene algún valor de gris los [llaman] menos saturados. La saturación del color se dice que es más baja cuando se le añade su opuesto (llamado complementario) en el círculo cromático. 
           .col-sm-12.col-lg-4
             .titulo-sexto.color-secundario
               h5 Figura 13.
@@ -175,9 +175,9 @@
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema2/img9.png', alt='Marketing')
       .col-sm-12.col-lg-8
-        p.mb-3 Eva Heller fue una socióloga, psicóloga y escritora de origen alemán, nació en 1948 y falleció en 2008, desarrolló su propia teoría de los colores a partir del estudio de Goethe, publicando su ya clásico libro titulado #[b “La psicología del color”]. Es considerada, de hecho, como una de las profesionales más interesadas en el estudio de este campo de la Psicología, y una de sus mayores expresiones.
+        p.mb-3 Eva Heller fue una socióloga, psicóloga y escritora de origen alemán, nació en 1948 y falleció en 2008, desarrolló su propia teoría de los colores a partir del estudio de Goethe, publicando su ya clásico libro titulado  “La psicología del color”. Es considerada, de hecho, como una de las profesionales más interesadas en el estudio de este campo de la Psicología, y una de sus mayores expresiones.
         p.mb-3 Según esta autora, las asociaciones entre los sentimientos y la razón, respecto a la relación de los colores no se realizan de manera accidental, sino que consisten en auténticas experiencias universales enraizadas profundamente tanto en nuestro pensamiento como en nuestro propio lenguaje.
-        p.mb-3 #[b Eva Heller considera que todos los colores tienen un significado y se utilizan siempre por un motivo determinado.] Nunca se usan al azar, y se convierten en una herramienta de comunicación verdaderamente útil.
+        p.mb-3 Eva Heller considera que todos los colores tienen un significado y se utilizan siempre por un motivo determinado. Nunca se usan al azar, y se convierten en una herramienta de comunicación verdaderamente útil.
         p.mb-0 En su estudio, y sobre todo en su libro, aborda la relación existente entre los colores y nuestros propios sentimientos, proporcionando una gran cantidad de información sobre el significado de los colores y su uso en nuestra cultura, en el diseño de productos, en los distintos test que se basan en colores.
     
 

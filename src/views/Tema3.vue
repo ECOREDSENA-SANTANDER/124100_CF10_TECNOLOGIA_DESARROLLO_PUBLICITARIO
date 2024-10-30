@@ -108,7 +108,7 @@
           img.pl-cus-2(src='@/assets/curso/temas/tema3/img41.svg')
         .col-sm-12.col-md-11.col-lg-11.px-sm-cus.px-sm-cus
           .h4 Definir el enfoque
-          p.mb-4 Como lo decían cuando se estaba en la escuela #[b “tener enfoque es algo muy importante”]. Un elemento clave para cualquier buena composición es un punto focal sólido, ya que ayuda a dirigir naturalmente los ojos de los espectadores hacia las partes importantes del diseño.
+          p.mb-4 Como lo decían cuando se estaba en la escuela  “tener enfoque es algo muy importante”. Un elemento clave para cualquier buena composición es un punto focal sólido, ya que ayuda a dirigir naturalmente los ojos de los espectadores hacia las partes importantes del diseño.
           p.mb-4 Cuando se elija el punto focal se debe tomar en cuenta que el objetivo principal de todo diseño es la comunicación. Independientemente de que se esté comunicando una idea, cierta información o simplemente un sentimiento o una emoción, el diseño está contando una historia específica, así que se debe procurar elegir dicho punto que ayude a contar esa historia de la manera más contundente y efectiva.
           p.mb-4 Algunas maneras de llamar la atención son mediante técnicas como la escala, el contraste y las líneas guía, lo cual se discutirá con mayor detalle más adelante. Por el momento, se puede analizar el ejemplo que aparece en la figura 21, elaborado por Matthew Metz para la cadena de moda Nordstrom, donde el punto focal es la modelo y su ropa. Razón por la que ella ha sido ubicada en el centro, además tiene letras y un bloque de color posicionado, de manera que resalte y dirija la atención hacia su rostro, luego su atuendo y las líneas guía dirigen los ojos por debajo de su marco y gradualmente hacia la otra información.
           .row.justify-content-center.my-5
@@ -139,7 +139,7 @@
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-6
               p.mb-4 Así como se apunta a algo cuando se desea que los demás lo vean, al posicionar algunas líneas y formas de ciertas maneras se puede controlar el punto de vista del diseño, es decir, hacia dónde se mueven los ojos de los espectadores cuando lo ven. Un uso común de las líneas guía con el que se podría estar muy familiarizado es dentro de los organigramas, los cuales usan líneas para dirigir los ojos de un punto al siguiente, de manera obvia. 
-              p.mb-4 Un ejemplo es la siguiente tarjeta de #[b “aparta la fecha”] elaborada por Paper and Parcel, que usa líneas de guía de organigrama para presentar la información en una forma divertida y única.
+              p.mb-4 Un ejemplo es la siguiente tarjeta de “aparta la fecha” elaborada por Paper and Parcel, que usa líneas de guía de organigrama para presentar la información en una forma divertida y única.
               .row.mb-5
                 .col-sm-12.col-lg-6
                   .titulo-sexto.color-secundario
@@ -187,7 +187,7 @@
           img.pl-cus-2(src='@/assets/curso/temas/tema3/img44.svg')
         .col-sm-12.col-md-11.col-lg-11.px-sm-cus
           .h4 Equilibrio de los elementos
-          p.mb-5 El equilibrio es muy importante en muchos sentidos y por supuesto que sus diseños no son la excepción. Pero #[b ¿cómo encontrar ese perfecto equilibrio dentro de los diseños? ] En la figura 26 que aparece a continuación se presenta un ejemplo.
+          p.mb-5 El equilibrio es muy importante en muchos sentidos y por supuesto que sus diseños no son la excepción. Pero ¿cómo encontrar ese perfecto equilibrio dentro de los diseños? En la figura 26 que aparece a continuación se presenta un ejemplo.
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-4.mb-cus
               .titulo-sexto.color-secundario
@@ -219,7 +219,7 @@
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-8
               .h4 Usar elementos que se complementen entre sí
-              p.mb-4 #[b Elegir fotos que se hayan tomado de forma similar] e intentar elegir fotos que tengan estéticas y estilos similares, por ejemplo, si una imagen es minimalista, elegir otras que estén inspiradas en lo minimalista para complementarla. Se puede evidenciar este ejemplo de diseño de sitio web por el autor Feint, quien ha elegido imágenes que tienen cierta tosquedad con mucha textura, vetas de madera y tonos fríos, tal como se presenta en la siguiente figura.
+              p.mb-4  Elegir fotos que se hayan tomado de forma similar e intentar elegir fotos que tengan estéticas y estilos similares, por ejemplo, si una imagen es minimalista, elegir otras que estén inspiradas en lo minimalista para complementarla. Se puede evidenciar este ejemplo de diseño de sitio web por el autor Feint, quien ha elegido imágenes que tienen cierta tosquedad con mucha textura, vetas de madera y tonos fríos, tal como se presenta en la siguiente figura.
               
             .col-sm-12.col-lg-4
               .titulo-sexto.color-secundario
@@ -275,10 +275,10 @@
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-8.mb-cus
               .h4 Repetir elementos
-              p.mb-4 #[b Repitan: “la repetición crea composiciones exitosas”.] Para mantener la consistencia y un formato lógico hay que intentar tomar elementos específicos de una sección del diseño y aplicarlos en otras secciones; tal vez un estilo de letra puede usarse en más de una sección del diseño o quizás un motivo gráfico más de una vez. Así que hay que probar armarlo con elementos repetidos.
+              p.mb-4  Repitan: “la repetición crea composiciones exitosas”. Para mantener la consistencia y un formato lógico hay que intentar tomar elementos específicos de una sección del diseño y aplicarlos en otras secciones; tal vez un estilo de letra puede usarse en más de una sección del diseño o quizás un motivo gráfico más de una vez. Así que hay que probar armarlo con elementos repetidos.
               p.mb-5 La repetición es un factor clave cuando se trata de formatos de múltiples páginas. Repetir elementos de formato y/o diseño ayuda a que cada página pase a la siguiente, creando un conjunto cohesivo de ellas, como se presenta en la siguiente figura.
               .cajon.color-secundario.p-4.mb-0
-                p.mb-0 En el diseño visualizado de los creativos Mauro De Donatis y Elizaveta Ukhabina cada composición de formato es similar, las únicas diferencias son el contenido escrito, los colores y el uso de imágenes. #[b  Esta composición repetida ayuda a los lectores a reconocer rápidamente el formato y, ]  por lo tanto, a familiarizarse con la información de manera rápida.
+                p.mb-0 En el diseño visualizado de los creativos Mauro De Donatis y Elizaveta Ukhabina cada composición de formato es similar, las únicas diferencias son el contenido escrito, los colores y el uso de imágenes. Esta composición repetida ayuda a los lectores a reconocer rápidamente el formato y, por lo tanto, a familiarizarse con la información de manera rápida.
             .col-sm-12.col-lg-4
               .titulo-sexto.color-secundario
                 h5 Figura 31.
@@ -296,7 +296,7 @@
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-8
               .h4 Dejar espacios en blanco
-              p.mb-4 #[b No tiene por qué llenar todo el espacio con contenido.] Como se acaba de mencionar, el espacio en blanco no es espacio vacío, está haciendo su trabajo y sirviendo su propósito, así que no se debe sentir la necesidad de llenar cualquier espacio que se tenga con más contenido.
+              p.mb-4  No tiene por qué llenar todo el espacio con contenido. Como se acaba de mencionar, el espacio en blanco no es espacio vacío, está haciendo su trabajo y sirviendo su propósito, así que no se debe sentir la necesidad de llenar cualquier espacio que se tenga con más contenido.
               p.mb-4 Por ejemplo, se puede evidenciar este diseño de sitio web creado por Creative Web Themes, en el que se usa una imagen para representar el producto, un título en negrita, dos pequeñas líneas de texto y luego un enlace para obtener más información. Gracias a este simple formato y a la forma en que no todo el espacio ha sido llenado con contenido hay mucho lugar para que el espacio en blanco haga lo suyo y, deje que cada elemento respire perfecta y efectivamente, tal como se presenta en la siguiente figura.
               
             .col-sm-12.col-lg-4
@@ -342,7 +342,7 @@
           img(src='@/assets/curso/temas/tema3/img21.png', alt='La imagen presenta la forma de una manzana sobrepuesta en círculos y rectángulos que contienen la sucesión de #[i Fibonacci]. ')
         figcaption Nota. Rodríguez (2020).
       .col-sm-12.col-lg-5
-        p.mb-3.mt-5.pt-2 Un buen ejemplo es el logo de #[i #[b Apple ] ]; la #[b manzana más famosa] no fue diseñada así por casualidad. Parte de la espiral áurea y a raíz de ella se fue generando progresivamente, de esta manera todas las formas del logo fueron realizadas siguiendo la proporción áurea que se sacó al principio. Otro caso bastante curioso es el del logo de #[b #[i BP ]]; parece simplemente una #[b figura geométrica] pero realmente emplea la proporción áurea para definir el tamaño de sus pétalos además de su forma y ancho, sacando como referencia la circunferencia de los pétalos amarillos y empleando esa espiral en el resto del logo, como se presenta en la siguiente figura.
+        p.mb-3.mt-5.pt-2 Un buen ejemplo es el logo de #[i Apple]; la manzana más famosa no fue diseñada así por casualidad. Parte de la espiral áurea y a raíz de ella se fue generando progresivamente, de esta manera todas las formas del logo fueron realizadas siguiendo la proporción áurea que se sacó al principio. Otro caso bastante curioso es el del logo de  #[i BP]; parece simplemente una figura geométrica pero realmente emplea la proporción áurea para definir el tamaño de sus pétalos además de su forma y ancho, sacando como referencia la circunferencia de los pétalos amarillos y empleando esa espiral en el resto del logo, como se presenta en la siguiente figura.
       .col-sm-12.col-lg-4
         .titulo-sexto.color-secundario
           h5 Figura 35.
@@ -367,7 +367,7 @@
       .col-sm-12.col-lg-10.bg16.p-4
         .row.justify-content-center.align-items-center.mb-0.px-5
           .col-sm-12.col-lg-6
-            p.mb-5 Por supuesto, no siempre es necesario editar para lograr esta proporción ideal, simplemente haciendo uso de #[b técnicas de composición ]  se puede lograr; tal como se evidencia en el ejemplo que se encuentra a continuación.
+            p.mb-5 Por supuesto, no siempre es necesario editar para lograr esta proporción ideal, simplemente haciendo uso de técnicas de composición  se puede lograr; tal como se evidencia en el ejemplo que se encuentra a continuación.
             
           .col-sm-12.col-lg-6
             .titulo-sexto.color-secundario
@@ -509,7 +509,7 @@
       .col-sm-12.col-lg-11
         p.mb-0  Estos conceptos son elementales para entender el territorio en que se mueve la tipografía. Cuando se habla de forma se hace referencia a lo tangible, a lo que se ve, es decir, el trazo, la geometría, el estilo y el eje de inclinación de las letras. El significado por su parte es algo mental, es el concepto, idea o emoción que la forma transmite, es el mensaje de la tipografía.        
 
-    p.mb-3(data-aos="zoom-in-left") A partir de ahí la tipografía cobra un nuevo sentido, #[b pues se puede entender que no son simples trazos dibujados al azar, sino que cada una con sus rasgos característicos comparte una historia, provoca emociones y transmite un mensaje específico y determinado. ]
+    p.mb-3(data-aos="zoom-in-left") A partir de ahí la tipografía cobra un nuevo sentido, pues se puede entender que no son simples trazos dibujados al azar, sino que cada una con sus rasgos característicos comparte una historia, provoca emociones y transmite un mensaje específico y determinado.
     p.mb-5(data-aos="zoom-in-left") Descubra en la siguiente figura cómo se aplica esto a alguna de las familias tipográficas más importantes.
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-10
@@ -526,7 +526,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img53.png')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               img.mb-3(src='@/assets/curso/temas/tema3/img56.png')
-              h4 #[i Serif]
+              h4  Serif
               p.mb-0 Se caracterizan por tener pequeños trazos que se extienden en los extremos de las letras, expresan un sentido clásico y tradicional.
       .col-sm-12.col-md-6.col-lg-4         
         .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
@@ -535,7 +535,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img54.png')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               img.mb-3(src='@/assets/curso/temas/tema3/img57.png')
-              h4 #[i Sin Serif]
+              h4  Sin Serif
               p.mb-0 A diferencia de las serif, estas no tienen trazos que sobresalen de sus extremos, sino cortes limpios y precisos, son de mejor legibilidad y se las relaciona con modernidad y elegancia.
       .col-sm-12.col-md-6.col-lg-4.mt-cus         
         .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
