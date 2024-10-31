@@ -93,7 +93,7 @@
           span
             | Temperaturas de color
         figure
-          img(src='@/assets/curso/temas/tema2/img4.svg', alt='En la imagen se presentan dos semicírculos que indican las temperaturass de color que son colores frios y colores calientes.')
+          img(src='@/assets/curso/temas/tema2/img4.svg', alt='En la imagen se presentan dos semicírculos que indican las temperaturas de color que son colores frios y colores calientes.')
         figcaption Nota. Desarrollo web (2004).
 
 

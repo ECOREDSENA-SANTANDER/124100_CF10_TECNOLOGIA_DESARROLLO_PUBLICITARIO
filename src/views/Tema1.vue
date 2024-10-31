@@ -243,7 +243,7 @@
                   |   Activación
               
               figure
-                img(src='@/assets/curso/temas/tema1/img23.png', alt=' La imagén presenta tres revistas abiertas en la misma página y una mano que señala algo sobre la revista del centro. ')
+                img(src='@/assets/curso/temas/tema1/img23.png', alt='La imagen presenta tres revistas abiertas en la misma página y una mano que señala algo sobre la revista del centro. ')
               figcaption Nota. Agencia JWT (2007).
 
         .py-3.bg6.px-5
