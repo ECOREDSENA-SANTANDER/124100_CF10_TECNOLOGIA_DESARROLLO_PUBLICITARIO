@@ -405,7 +405,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-12
         p.mb-3 La palabra #[i layout ] sirve para hacer referencia al esquema que será utilizado y cómo están distribuidos los elementos y formas dentro de un diseño. Es un vocablo del idioma inglés, y no existe o no forma parte del texto del diccionario de la Real Academia Española; sin embargo, se traduce como disposición, plan o diseño (Significados, 2020)
-        p.mb-5 El #[i layout ], en términos publicitarios, expone el arreglo de los elementos gráficos dentro de un anuncio en un soporte determinado. Coordina la medida y posición de cada uno de los elementos y recursos que componen un anuncio o pieza publicitaria (Pix, 2013).
+        p.mb-5 El #[i layout], en términos publicitarios, expone el arreglo de los elementos gráficos dentro de un anuncio en un soporte determinado. Coordina la medida y posición de cada uno de los elementos y recursos que componen un anuncio o pieza publicitaria (Pix, 2013).
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-6
         .d-flex.align-items-center.mt-4

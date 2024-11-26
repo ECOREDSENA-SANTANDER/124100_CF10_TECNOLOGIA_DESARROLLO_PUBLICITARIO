@@ -15,7 +15,7 @@
     .row.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-8
           p.mb-3 Derivado del término italiano #[i bozzetto], el concepto de boceto refiere al esquema o el proyecto que sirve de bosquejo para cualquier obra. Se trata de una guía que permite volcar y exhibir sobre un papel una idea general antes de arribar al trabajo que arrojará un resultado final.
-          p.mb-5 Es una ilustración esquemática que carece de detalles y, en la mayoría de los casos, no posee terminaciones. Su objetivo es simbolizar ideas, pensamientos o conceptos, sin preocuparse por la estética. Por eso, generalmente se realiza sobre cualquier clase de hoja y sin necesidad de disponer de instrumentos de dibujo auxiliares (Definición de, 2020).
+          p.mb-5 Es una ilustración esquemática que carece de detalles y, en la mayoría de los casos, no posee terminaciones. Su objetivo es simbolizar ideas, pensamientos o conceptos, sin preocuparse por la estética. Por eso, generalmente se realiza sobre cualquier clase de hoja y sin necesidad de disponer de instrumentos de dibujo auxiliares (Definición de, 2021).
           .cajon.color-secundario.p-4.mb-0.mb-cus Sabiendo ya un poco de contexto, lo primero que se debe hacer es desarrollar esbozos de piezas gráficas en los que se evidencie el concepto, el mensaje y los objetivos de comunicación de la campaña.
           
         .col-sm-12.col-lg-4.d-none.d-lg-block

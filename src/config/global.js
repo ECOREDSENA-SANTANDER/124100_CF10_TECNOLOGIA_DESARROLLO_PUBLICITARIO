@@ -222,6 +222,11 @@ export default {
   ],
   referencias: [
     {
+      referencia:
+        'Moares, B. (2018, diciembre 18). Teoría del color: Guía básica del color. Unayta. https://unayta.es/teoria-del-color/',
+      link: 'https://unayta.es/teoria-del-color/',
+    },
+    {
       referencia: 'Definición.de. (2021). Boceto.',
       link:
         'https://definicion.de/boceto/#:~:text=Derivado%20del%20t%C3%A9rmino%20italiano%20bozzetto,de%20bosquejo%20para%20cualquier%20obra.&text=Por%20lo%20general%2C%20un%20boceto,los%20casos%2C%20no%20posee%20terminaciones',
@@ -234,7 +239,7 @@ export default {
     },
     {
       referencia:
-        'Estudio Mique. (2020). ¿Qué es la composición en diseño gráfico? mique.es',
+        'Estudio Mique. (s.f). ¿Qué es la composición en diseño gráfico? mique.es',
       link: 'https://www.mique.es/que-es-composicion-diseno-grafico/',
     },
     {
@@ -304,9 +309,8 @@ export default {
     },
     {
       referencia:
-        'Viviendo la salud. (2020). Significado de los colores: la psicología del color de Eva Heller. viviendolasalud.com',
-      link:
-        'https://viviendolasalud.com/psicologia/significado-de-los-colores-psicologia-del-color#:~:text=Eva%20Heller%20fue%20una%20soci%C3%B3loga,%E2%80%9CLa%20Psicolog%C3%ADa%20del%20Color%E2%80%9D',
+        'Psicología del Color de Eva Heller. (2012, diciembre 25). Mini Manual; Mini Manuales.',
+      link: 'https://minimanual.com/psicologia-del-color-de-eva-heller/',
     },
     {
       referencia:
