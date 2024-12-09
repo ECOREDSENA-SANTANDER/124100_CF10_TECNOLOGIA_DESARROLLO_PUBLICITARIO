@@ -239,7 +239,7 @@ export default {
     },
     {
       referencia:
-        'Estudio Mique. (s.f). ¿Qué es la composición en diseño gráfico? mique.es',
+        'Estudio Mique. 2020. ¿Qué es la composición en diseño gráfico? mique.es',
       link: 'https://www.mique.es/que-es-composicion-diseno-grafico/',
     },
     {
