@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85" height="62" viewBox="0 0 85 62">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_401523" data-name="Rectángulo 401523" width="62" height="62" transform="translate(203 5976)" fill="#62529b" stroke="#62529b" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="path4053" d="M0-62H62V0H0Z" fill="#62529b"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1099868" data-name="Grupo 1099868" transform="translate(-180 -5976)">
+    <g id="Enmascarar_grupo_1098724" data-name="Enmascarar grupo 1098724" clip-path="url(#clip-path)">
+      <g id="g4047" transform="translate(203 6038)">
+        <g id="g4049">
+          <g id="g4051" clip-path="url(#clip-path-2)">
+            <g id="g4057" transform="translate(18.029 -27.377)">
+              <path id="path4059" d="M0,0V-20.067s2.983,2.92,5.492.654a3.753,3.753,0,0,0,.354-5.253L-.915-32.44a3.7,3.7,0,0,0-2.794-1.274A3.7,3.7,0,0,0-6.5-32.44l-6.761,7.774a3.742,3.742,0,0,0,.354,5.253c2.516,2.236,5.492-.654,5.492-.654V.193" fill="none" stroke="#62529b" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g4061" transform="translate(51.392 -34.623)">
+              <path id="path4063" d="M0,0V20.067s2.983-2.92,5.492-.654a3.753,3.753,0,0,1,.354,5.253L-.915,32.44a3.7,3.7,0,0,1-2.794,1.274A3.7,3.7,0,0,1-6.5,32.44l-6.761-7.774a3.742,3.742,0,0,1,.354-5.253c2.516-2.236,5.492.654,5.492.654V3.852" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g4065" transform="translate(3.773 -6.053)">
+              <path id="path4067" d="M0,0A13.437,13.437,0,0,1-2.864-8.316a13.436,13.436,0,0,1,13.41-13.462A13.436,13.436,0,0,1,23.955-8.316,13.436,13.436,0,0,1,10.545,5.145,13.312,13.312,0,0,1,2.863,2.718" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g4069" transform="translate(19.611 -16.702)">
+              <path id="path4071" d="M0,0H-2.969V-2.981A2.328,2.328,0,0,0-5.293-5.313,2.328,2.328,0,0,0-7.616-2.981V0h-2.969a2.328,2.328,0,0,0-2.324,2.333,2.328,2.328,0,0,0,2.324,2.332h2.969V7.646A2.328,2.328,0,0,0-5.293,9.978,2.328,2.328,0,0,0-2.969,7.646V4.665H0A2.328,2.328,0,0,0,2.324,2.333,2.328,2.328,0,0,0,0,0Z" fill="none" stroke="#62529b" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g4073" transform="translate(61.092 -47.63)">
+              <path id="path4075" d="M0,0A13.436,13.436,0,0,0-13.41-13.461,13.436,13.436,0,0,0-26.82,0,13.436,13.436,0,0,0-13.41,13.462,13.436,13.436,0,0,0,0,0Z" fill="none" stroke="#62529b" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+            <g id="g4077" transform="translate(52.97 -45.298)">
+              <path id="path4079" d="M0,0A2.328,2.328,0,0,0,2.328-2.328v-.009A2.328,2.328,0,0,0,0-4.665H-10.577A2.328,2.328,0,0,0-12.9-2.337v.009A2.328,2.328,0,0,0-10.577,0h6.8" fill="none" stroke="#62529b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.816"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectángulo_401532" data-name="Rectángulo 401532" width="16" height="62" transform="translate(180 5976)" fill="#62529b"/>
+  </g>
+</svg>
