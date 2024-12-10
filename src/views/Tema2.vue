@@ -13,7 +13,7 @@
 
       .col-sm-12.col-lg-9
         p.mb-3 Según la Real Academia de la Lengua Española, en su primera definición, el color es una “sensación producida por los rayos luminosos que impresionan los órganos visuales y que depende de la longitud de onda”.
-        p.mb-0 El mundo es incoloro. Se podría decir que todo el color que [se ve] no existe. Es una percepción. Los objetos poseen la característica de absorber determinadas partes del espectro lumínico. La luz que no es absorbida se remite y transmite diferentes estímulos de color al de la ambientación general. Al llegar estos estímulos hasta el órgano de la vista, (…) produce una sensación de color. (Moares, B. 2018) )
+        p.mb-0 El mundo es incoloro. Se podría decir que todo el color que [se ve] no existe. Es una percepción. Los objetos poseen la característica de absorber determinadas partes del espectro lumínico. La luz que no es absorbida se remite y transmite diferentes estímulos de color al de la ambientación general. Al llegar estos estímulos hasta el órgano de la vista, (…) produce una sensación de color. (Moares, B. 2018)
     
     
     Separador  
